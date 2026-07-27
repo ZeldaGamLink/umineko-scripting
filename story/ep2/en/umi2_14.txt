@@ -1,439 +1,439 @@
-`"Doctor Nanjo and Kumasawa‐san?!`
-` What in the world is going on?!"`
-`"Aaah, Shannon!`
-` Thank goodness you're safe...!`
-` If something had happened to you, I...!"`
-`"......George‐sama......`
-` ......uuuuughh........."`
-`"George‐kun, be quiet for a second!`
-` A murder occurred before your very eyes, right?!`
-` Did you see the culprit?!`
-` Or not?!!"`
-`"Tha‐......that is, umm,`
-` ......how should I explain...?!`
-` G‐Genji‐san."`
-`"..................Even we cannot explain what we saw very well."`
-`"It certainly, umm, ...happened right before our eyes!`
-` It was right in front of my eyes!`
-` But still,`
-` ......that, umm,`
-` .........what was that...`
-` Even I do not understand!"`
-`"What are you saying?!`
-` It's impossible for you to have met anyone other than the witch, {f:5:Beatrice}, whose location has been unknown since last night,`
-` or Kanon‐kun, who has gone missing!`
-` Was it a man or a woman?!`
-` You should be able to tell me at least that much, right?!"`
-`"Auntie Rosa, calm down a bit...!`
-` Anyone would be confused if two people were taken out right in front of them!`
-` Gohda‐san, Genji‐san.`
-` There's no need to rush.`
-` Tell us what happened, one thing at a time."`
-`"...............About that... ...How should I say it......"`
-`".............................."`
-`Doctor Nanjo and Kumasawa‐san had been killed.`
-`{n}We understood that much.`
-`...And it seemed that it had occurred in front of their eyes.`
-`{n}But even so, they spoke awkwardly.`
-`They admitted that they had definitely seen the crime with their own two eyes.`
-`{n}But when asked to explain what they had seen, their mouths went suddenly shut.`
-`I could understand why Auntie Rosa was irritated and losing her patience...`
-`"...Shannon.`
-` Did you see it?`
-` When Doctor Nanjo was attacked."`
-`"Ye‐.........yes."`
-`"Tell me.`
-` ...Just what you understand.`
-` What in the world happened?"`
-`"..................The back door............`
-` ......In through there."`
-`"...Tha‐that's right.`
-` Someone came up to the back door.`
-` Then, wondering who it was, I opened the door..."`
-`"Someone at the back door?`
-` Who was it?!"`
-`"Let them finish!`
-` And after that?!"`
-`".........That person was...stained with blood, and had a large wound.`
-` ...We carried them to the servant room, and Doctor Nanjo immediately began first aid.`
-` ......It was a...very deep wound."`
-`"For the last time, {i:who} are you talking about?!"`
-`"...I don't know!`
-` Certainly, ...in the beginning, I thought I knew.`
-` No, I still think it was!`
-`But.........what in the world was that!!`
-` ...I don't know... ...I don't know!!"`
-`In a manner that didn't match his large body, Gohda held his head and scratched at it...`
-`I didn't have a clue whether he was confused because he couldn't remember,`
-` or whether he was confused because he had seen something terrifying, and couldn't accept it.`
-`And Shannon looked the same way.`
-`If she let her guard down, what she had seen just a short while ago would quickly melt away like a daydream,`
-` and she wouldn't even be able to remember what she saw.`
-`......That's what she looked like.`
-`Only Genji looked composed as usual.`
-`...So the questions were naturally directed at Genji.`
-`But even Genji had to take quite some time to gather his thoughts before he opened his mouth.`
-`"Genji‐san.`
-` You saw it, right?`
-` Who was the person that came in through the back door?!"`
-`"............At first, ...we believed that person...was Kanon."`
-`"You see!!`
-` He was alive after all!`
-` My reasoning was correct!!"`
-`"......By "at first", you mean that your impression changed later, right......?"`
-`"Yes.`
-` .........I cannot explain with words what happened after that.`
-` ......It killed Doctor Nanjo and Kumasawa, ......then disappeared.`
-` At that time, it was definitely not Kanon."`
-`"Yes!`
-` That's right!`
-` It's just as Genji‐san says!!`
-` You really couldn't explain it with words!"`
-`"......Do you have the same opinion?"`
-`"...Yes............`
-` I......can only say the same thing as well......"`
-`"..........................."`
-`...If we interpreted what they were saying favorably,`
-` ......it meant that Auntie Rosa's conclusion had been correct from the beginning.`
-`Kanon‐kun had appeared from the back door in the kitchen with a serious injury.`
-`{n}Then he had been taken to the servant room and cared for.`
-`......Then, something terrifying had happened.`
-`Since these people couldn't imagine that Kanon‐kun could have pulled that off, they had started to suspect whether that really had been Kanon‐kun.`
-` Is that how things are?`
-`In other words, this meant......Kanon‐kun had appeared.`
-`{n}No matter how confused they were, no matter how they muddled their words, that's what it meant in the end.`
-`So had Kanon‐kun indeed used some trick to escape that room while it was locked?!`
-` No, that doesn't matter anymore.`
-`The real problem is that Doctor Nanjo and Kumasawa‐san were killed.`
-`Auntie Rosa had claimed that Kanon‐kun was behind this from the very beginning.`
-`No matter how confused they became and no matter how much they tried to deny it, ...they were halfway saying that it was the truth.`
-`......But even so, for some reason, I felt like their awkwardness couldn't be explained just by confusion...`
-`......What had they seen?`
-`Like they said, had they really {i:seen something unexplainable with words}...?`
-`Auntie Rosa, having decided that she wouldn't be able to get any more out of them, concluded her questioning,`
-` and said that she wanted to check the two bodies.`
-`I was also interested in that.`
-`Even if these people didn't have a clue what was going on in their confusion,`
-` ...if those of us who hadn't been at the scene calmly looked at the bodies, we might find something.`
-`.........But it was a little surprising that Auntie Rosa was also concerned about the bodies, just like I was.`
-`Even at this point, I still wanted to expose the culprit and the truth myself, if we could find any clues.`
-`But Auntie Rosa should have been different.`
-` ......Hadn't Auntie Rosa's plan given a higher priority to staying safe than to finding the culprit?`
-`I couldn't really see why Auntie Rosa wanted to check the bodies so badly that she would deliberately leave our fort in the parlor.`
-`"We will all go to the servant room together.`
-` If we all move together, it'll be safe.`
-` Maria, stop that scribbling now!"`
-`"Uu.`
-` Not scribbliiing.`
-` Solving {f:5:Beatrice}'s probleeem.`
-` Uu..."`
-`"{f:5:Beatrice}'s problem?`
-` What's that? Tell me too."`
-`"...Auntie Rosa, are you...umm...bringing Maria‐chan too?"`
-`It seemed that George‐aniki had some resistance to bringing Maria to the bloody crime scene.`
-`...But taking into consideration the fact that Maria would be left alone here, it would surely be much safer if we took Maria with us.`
-`......In the end, it was just Aniki's irresponsible humanism.`
-`{n}We decided that all of us, including Maria, would go to the servant room.`
-`The bed in the servant room was stained with bright‐red blood.`
-`...No, not just the bed.`
-` The whole room was covered with a gruesome paint from countless blood stains.`
-`That dreadful scene alone was enough to give us an idea of the repulsive sight they had been trying to describe...`
-`"......Uu.`
-` Wanna look too!"`
-`"You wait here with me, Maria‐chan, okay?"`
-`George‐aniki was standing by the entrance, covering Maria's eyes, with his back to the room.`
-`......He probably didn't want to dirty an innocent girl's retinas with the repulsive red in this room.`
-`That was surely the correct decision.`
-`......I was acting tough right now, so I didn't mind,`
-` ......but I would probably remember this room and start to vomit whenever I saw red paint scattered around,`
-` for the rest of my life.`
-`......My retinas already had this room burned into them.`
-`{n}...In other words, it was too late for me...`
-`"...............Huh......"`
-`"Wh‐...where did they...!"`
-`Right after they entered the servant room, Gohda‐san and Shannon‐chan appeared flustered.`
-`...We shook, wondering what horrible new situation had arisen to fluster them for a second time.`
-`"What happened?`
-` What is it?"`
-`Auntie Rosa also shuddered, raised her gun high, and searched for whatever it was that had them shaken.`
-`......But she couldn't find it.`
-` ...Which wasn't surprising.`
-`{n}...They were shaken {i:because} they couldn't find it.`
-`"Hey, hey, what in the world's going on..."`
-`".........The two bodies...aren't here."`
-`"What do you mean?"`
-`"......Tha‐that can't be...!`
-` Those two were definitely...here......!"`
-`"...Wait wait wait.`
-` What the hell—are you saying the corpses just walked off somewhere?`
-` How could that happen?`
-` I mean, wasn't the servant room locked?`
-` Didn't you unlock the door when you came in just now, Gohda‐san?!"`
-`"......So then, what?`
-` ...Isn't this the same as Jessica's room?!`
-` They've disappeared from inside a locked room again?!`
-` That's ridiculous!!"`
-`"I don't have a clue what happened either!!`
-` When we left this room, we definitely locked it, and......!!`
-` I don't have a clue what's going on anymore...!!"`
-`There was a timid and pitiful smile on Gohda‐san's face that he definitely wouldn't have let show normally.`
-`Shannon was the same.`
-`"Both their corpses disappeared!`
-` And furthermore, they disappeared while the door was locked!`
-` Even if the culprit was Kanon‐kun, he shouldn't be holding a master key anymore!!"`
-`"That's wrong...!`
-` Kanon‐kun is not the culprit...!!"`
-`"......Shannon...`
-` I believe Shannon.`
-` Kanon‐kun is not the culprit.`
-` This must be the doing of someone who looks a lot like him."`
-`"No.`
-` Kanon‐kun could have gotten a master key.`
-` ......After all, his master key was found in the pocket of Jessica‐chan's body.`
-` ...And who took that key?"`
-`"!!`
-` Th‐that's right!`
-` It was Doctor Nanjo......!!"`
-`That's right.`
-` Back then, it definitely had been Doctor Nanjo who searched through Jessica's clothes and found the master key...!`
-`So, if someone had the opportunity to search Doctor Nanjo's corpse, it would have been easy for them to take the master key back...`
-`Auntie Rosa searched under the bed and in the locker.`
-`...By now, I also understood what that meant.`
-`{n}If you assume that there had been two culprits, it could be easily explained.`
-`The first person was Kanon‐kun, or maybe an impostor that looked like him.`
-`{n}He had finished off Doctor Nanjo and ran off somewhere.`
-`The second person was......probably the 19th person, {f:5:Beatrice}, whose location was unknown.`
-`She had hidden under the bed in the servant room beforehand, and with Doctor Nanjo's body still enshrined here, she had waited for Genji‐san and the rest to leave.`
-`Then after that, she had crawled out, taken the master key back from Doctor Nanjo's pocket, and carried the two bodies away for some reason.`
-`If she had then locked the door with the master key, this locked room would be created.`
-`"*cackle*cackle*.`
-` You constructed that one pretty fast with your reasoning from Jessica's room as a premise.`
-` With that method, you could indeed create a locked room even without magic.`
-` Should I give you passing marks?`
-` However, as truly fascinating as it was, ......there is something you must not forget."`
-`"...If the culprit had taken the master key back by the method you say,`
-` ......that culprit...`
-`{i:would have to have known that Nanjo had taken the master key from Jessica's body}."`
-`"......You don't have to tell me that...`
-` You're probably trying to say that it's information only the people in that place, at that time, could know..."`
-`"......Heh!`
-` This third locked room was crushed so fast that you can't do anything but gripe.`
-` There's no art in repeating the same content..."`
-`Even though I was acting tough, that move of the witch's hurt bad...`
-`{n}......I could feel cracks forming in the thing I most wanted to deny.`
-`She's trying to close in on me from two directions.`
-`On the one hand, there's the frontal attack, where she tries to force me to believe in witches, using locked room tricks that only a witch could do.`
-`......And on the other hand, there's the rear attack, where she tries to lure me into thinking it would be better if there was a witch, by strengthening my suspicions of those close to me.`
-`In the first locked room, the chapel, she had used the frontal attack, but it hadn't worked on me.`
-`That's undoubtedly why, with the second locked room, and now the third, she's started to change the direction of her attack...`
-`However, the fact that she was changing the direction of her attack also proved that my resistance was working a little.`
-`...And she had surely given up on the frontal attack because she couldn't just win directly with it...`
-`.........I tried to force myself to accept my own position by thinking that.`
-`{n}But it seemed that the witch had seen through these thoughts of mine long ago.`
-`"*cackle*cackle*.`
-` The frontal attack is indispensable.`
-` ...The rear attack only has meaning because it advances at the same time as the frontal attack.`
-` If I were to degenerate into only using the rear attack, it would be nothing more than a foolish plan occurring when my means became my goal."`
-`"...Ihihi, really?`
-` Well then, won't you repeat "no one was hiding in the servant room" in that red you're so proud of?"`
-`"There is no need.`
-` The premise of your reasoning is about to be destroyed."`
-`"Oh, oh?!`
-` You decline?!`
-` So someone really is hiding?!"`
-`"Rosa will destroy your premise right now.`
-` ...*cackle*cackle*!`
-` Well, try listening in."`
-`"Please believe us, Rosa‐sama...!!`
-` The two bodies were certainly lying here!`
-` The bright‐red blood on the floor is theirs...!!"`
-`Auntie Rosa began to search through various objects around the room, her back to Gohda‐san as he cried out in supplication.`
-`......Eventually, she found something, and for a while, stopped moving.`
-`"Rosa‐sama, we definitely aren't lying...!!`
-` The two bodies were definitely here!!"`
-`"Quiet down.`
-` .........The person who hid the corpses has confessed that they took them to another place.`
-` .........With this."`
-`Rosa showed them a single sheet of paper over her shoulder.`
-`"What on Earth is that?!`
-` It couldn't be......a letter in a sealed envelope with crest, just like in the chapel?!"`
-`"......Yes, that's right.`
-` It was set here, out in the open.`
-` I'll read it."`
-`{e:070:―People of the Ushiromiya family.`
-`I wonder if your attempts at solving the epitaph's riddle for the gold are reaching a climax.`
-`Solving the riddle of the epitaph is the single method by which you all can stop me.}`
-`{e:070:You will not be able to stop me, or the ritual, by way of any other method of any kind.`
-`I ask all of you that you take care not to mistake your goal.}`
-`{e:070:Attempting to search for me is useless.`
-`Attempting to escape from me is useless.`
-`Attempting to deny me is also—useless.`
-`—{f:5:Beatrice} the Golden.}`
-`"......P.S.`
-` I borrowed the two bodies for the ritual.`
-` I will return them later, so please accept my apologies.`
-` ...Furthermore, since these keys belong to all of you, I shall return them."`
-`As Rosa read that aloud, the contents of the envelope lay exposed on the palm of her hand.`
-`They were two master keys.`
-`{n}The master key that Nanjo had found in Jessica's pocket, which had originally been Kanon's, and Kumasawa's master key.`
-`"What the helllllll......`
-` So what does that mean...`
-` Damn you, again?!`
-` You're saying I can only suspect the servants holding keys again?!"`
-`"I haven't said it in red, you know...?`
-` I haven't denied the possibility that at the time they locked the door and left, someone was hiding in this room...`
-` *cackle*cackle*cackle*!"`
-`"......If they were hiding under the bed, it wouldn't have been impossible for them to have carried the corpses away somewhere.`
-` But that way they couldn't lock the door!`
-` The master key they went to all that trouble to get their hands on was set down right here!"`
-`"......That's right, I'd forgotten.`
-` What about the keys specifically for this room, the servant room keys?!"`
-`"Mmhm.`
-` Those {p:1:are in the key box in the center of the servant room}.`
-` There are several servant room keys, but {p:1:all of those are inside the key box}."`
-`"Which means that the situation isn't any different from the time with the key to Jessica's room...`
-` It's not like the servants would walk around with an unnecessary key when they have those convenient master keys.`
-` I can accept that they were all still shut away in the key box..."`
-`"And nothing has changed in the other conditions.`
-` {p:1:Entry and exit are impossible except for the single door and the single window}.`
-` Therefore, hidden doors and irregular methods of entry cannot exist.`
-` Rejoice, great detectives.`
-` *cackle*!"`
+`Le docteur Nanjo et Kumasawa-san ?!`
+` Que se passe-t-il, bon sang ?!`
+`Aaah, Shannon !`
+` Dieu merci, tu es saine et sauve... !`
+` S'il t'était arrivé quelque chose, je... !`
+`......George-sama......`
+` ......uuuuughh.........`
+`George-kun, tais-toi une seconde !`
+` Un meurtre s'est produit sous vos yeux, n'est-ce pas ?!`
+` Avez-vous vu le coupable ?!`
+` Ou pas ?!!`
+`C-...... c'est-à-dire, euh,`
+` ......comment devrais-je expliquer... ?!`
+` G-Genji-san.`
+`..................Même nous, nous ne pouvons pas bien expliquer ce que nous avons vu.`
+`Ça s'est certainement, euh, ...produit juste sous nos yeux !`
+` C'était juste sous mes yeux !`
+` Mais quand même,`
+` ......ça, euh,`
+` .........qu'est-ce que c'était...`
+` Même moi je ne comprends pas !`
+`Que dites-vous ?!`
+` Il est impossible que vous ayez rencontré quelqu'un d'autre que la sorcière, {f:5:Beatrice}, dont on ignore où elle se trouve depuis la nuit dernière,`
+` ou Kanon-kun, qui a disparu !`
+` Était-ce un homme ou une femme ?!`
+` Vous devriez au moins pouvoir me dire ça, non ?!`
+`Tante Rosa, calmez-vous un peu... !`
+` N'importe qui serait confus si deux personnes étaient tuées juste sous ses yeux !`
+` Gohda-san, Genji-san.`
+` Rien ne presse.`
+` Racontez-nous ce qui s'est passé, une chose à la fois.`
+`...............À ce propos... ...Comment dire......`
+`..............................`
+`Le docteur Nanjo et Kumasawa-san avaient été tués.`
+`{n}Ça, nous l'avions compris.`
+`...Et il semblait que cela s'était produit sous leurs yeux.`
+`{n}Mais même ainsi, ils parlaient avec difficulté.`
+`Ils admettaient avoir indéniablement vu le crime de leurs propres yeux.`
+`{n}Mais lorsqu'on leur demandait d'expliquer ce qu'ils avaient vu, leurs bouches se refermaient brusquement.`
+`Je pouvais comprendre pourquoi Tante Rosa était irritée et perdait patience...`
+`...Shannon.`
+` As-tu vu ça ?`
+` Quand le docteur Nanjo a été attaqué.`
+`Ou-.........oui.`
+`Dis-moi.`
+` ...Juste ce que tu comprends.`
+` Que s'est-il passé, bon sang ?`
+`..................La porte de derrière............`
+` ......Est entré par là.`
+`...C-c'est exact.`
+` Quelqu'un s'est approché de la porte de derrière.`
+` Puis, me demandant de qui il s'agissait, j'ai ouvert la porte...`
+`Quelqu'un à la porte de derrière ?`
+` Qui était-ce ?!`
+`Laissez-les terminer !`
+` Et ensuite ?!`
+`.........Cette personne était... couverte de sang, et avait une large blessure.`
+` ...Nous l'avons transportée dans la salle des domestiques, et le docteur Nanjo a immédiatement commencé les premiers soins.`
+` ......C'était une blessure... très profonde.`
+`Pour la dernière fois, de {i:qui} parlez-vous ?!`
+`...Je ne sais pas !`
+` Certes, ...au début, je croyais le savoir.`
+` Non, je pense toujours que c'était ça !`
+`Mais.........qu'est-ce que c'était que ça, bon sang !!`
+` ...Je ne sais pas... ...Je ne sais pas !!`
+`D'une manière qui ne correspondait pas à sa carrure, Gohda se tenait la tête et se la grattait...`
+`Je ne savais pas du tout s'il était confus parce qu'il ne se souvenait pas,`
+` ou s'il était confus parce qu'il avait vu quelque chose de terrifiant et ne pouvait l'accepter.`
+`Et Shannon avait la même expression.`
+`Si elle baissait sa garde, ce qu'elle avait vu il y a peu de temps fondrait rapidement comme un rêve,`
+` et elle ne pourrait même plus se souvenir de ce qu'elle avait vu.`
+`......C'est l'impression qu'elle donnait.`
+`Seul Genji semblait calme comme à son habitude.`
+`...Les questions lui furent donc naturellement adressées.`
+`Mais même Genji dut prendre un certain temps pour rassembler ses esprits avant d'ouvrir la bouche.`
+`Genji-san.`
+` Vous l'avez vu, n'est-ce pas ?`
+` Qui était la personne qui est entrée par la porte de derrière ?!`
+`............Au début, ...nous pensions que cette personne... était Kanon.`
+`Vous voyez !!`
+` Il était en vie après tout !`
+` Mon raisonnement était correct !!`
+`......Par « au début », vous voulez dire que votre impression a changé plus tard, n'est-ce pas...... ?`
+`Oui.`
+` .........Je ne peux pas expliquer avec des mots ce qui s'est passé ensuite.`
+` ......Ça a tué le docteur Nanjo et Kumasawa, ......puis ça a disparu.`
+` À ce moment-là, ce n'était définitivement pas Kanon.`
+`Oui !`
+` C'est exact !`
+` C'est exactement comme le dit Genji-san !!`
+` Vous ne pourriez vraiment pas l'expliquer avec des mots !`
+`......Partagez-vous la même opinion ?`
+`...Oui............`
+` Je...... ne peux que dire la même chose également......`
+`...........................`
+`...Si nous interprétions leurs propos favorablement,`
+` ......cela signifiait que la conclusion de Tante Rosa était correcte depuis le début.`
+`Kanon-kun était apparu par la porte de derrière de la cuisine avec une grave blessure.`
+`{n}Ensuite, il avait été emmené dans la salle des domestiques et soigné.`
+`......Puis, quelque chose de terrifiant s'était produit.`
+`Comme ces personnes ne pouvaient pas imaginer que Kanon-kun ait pu accomplir cela, elles avaient commencé à douter qu'il s'agissait vraiment de Kanon-kun.`
+` Est-ce que c'est ça ?`
+`En d'autres termes, cela signifiait...... que Kanon-kun était apparu.`
+`{n}Peu importe à quel point ils étaient confus, peu importe comment ils embrouillaient leurs mots, c'est ce que cela signifiait au final.`
+`Alors, Kanon-kun avait-il vraiment utilisé un tour pour s'échapper de cette chambre alors qu'elle était verrouillée ?!`
+` Non, ça n'a plus d'importance maintenant.`
+`Le vrai problème est que le docteur Nanjo et Kumasawa-san ont été tués.`
+`Tante Rosa avait affirmé que Kanon-kun était derrière tout cela depuis le tout début.`
+`Peu importe à quel point ils étaient confus et peu importe à quel point ils essayaient de le nier, ...ils disaient à demi-mot que c'était la vérité.`
+`......Mais même ainsi, pour une raison quelconque, j'avais l'impression que leur malaise ne pouvait pas s'expliquer uniquement par la confusion...`
+`......Qu'avaient-ils vu ?`
+`Comme ils le disaient, avaient-ils vraiment {i:vu quelque chose d'inexplicable avec des mots}... ?`
+`Tante Rosa, ayant décidé qu'elle ne pourrait rien tirer de plus d'eux, conclut son interrogatoire,`
+` et dit qu'elle voulait examiner les deux corps.`
+`J'étais également intéressé par cela.`
+`Même si ces gens n'avaient aucune idée de ce qui se passait dans leur confusion,`
+` ...si ceux d'entre nous qui n'étaient pas sur les lieux examinaient calmement les corps, nous pourrions trouver quelque chose.`
+`.........Mais c'était un peu surprenant que Tante Rosa se soucie également des corps, tout comme moi.`
+`Même à ce stade, je voulais toujours démasquer le coupable et la vérité par moi-même, si nous pouvions trouver des indices.`
+`Mais Tante Rosa aurait dû être différente.`
+` ......Le plan de Tante Rosa n'avait-il pas donné la priorité à la sécurité plutôt qu'à la recherche du coupable ?`
+`Je ne voyais pas vraiment pourquoi Tante Rosa voulait à tout prix examiner les corps, au point de quitter délibérément notre forteresse dans le salon.`
+`Nous allons tous aller ensemble dans la salle des domestiques.`
+` Si nous bougeons tous ensemble, ce sera sûr.`
+` Maria, arrête ce gribouillage maintenant !`
+`Uu.`
+` Pas un gribouillaaage.`
+` Je résous le problèèème de {f:5:Beatrice}.`
+` Uu...`
+`Le problème de {f:5:Beatrice} ?`
+` Qu'est-ce que c'est ? Dis-le moi aussi.`
+`...Tante Rosa, est-ce que vous... euh... amenez Maria-chan aussi ?`
+`Il semblait que George-aniki hésitait à amener Maria sur la scène de crime sanglante.`
+`...Mais en prenant en considération le fait que Maria serait laissée seule ici, ce serait sûrement beaucoup plus sûr si nous l'emmenions avec nous.`
+`......En fin de compte, ce n'était que l'humanisme irresponsable d'Aniki.`
+`{n}Nous avons décidé que nous irions tous, y compris Maria, dans la salle des domestiques.`
+`Le lit dans la salle des domestiques était taché d'un sang rouge vif.`
+`...Non, pas seulement le lit.`
+` La pièce entière était recouverte d'une peinture macabre composée d'innombrables taches de sang.`
+`Cette scène effroyable suffisait à elle seule à nous donner une idée du spectacle répugnant qu'ils avaient essayé de décrire...`
+`......Uu.`
+` Veux regarder aussi !`
+`Tu attends ici avec moi, Maria-chan, d'accord ?`
+`George-aniki se tenait près de l'entrée, couvrant les yeux de Maria, tournant le dos à la pièce.`
+`......Il ne voulait probablement pas salir les rétines d'une fille innocente avec le rouge répugnant de cette pièce.`
+`C'était sûrement la bonne décision.`
+`......Je faisais le dur en ce moment, donc ça m'était égal,`
+` ......mais je me souviendrais probablement de cette pièce et je me mettrais à vomir à chaque fois que je verrais de la peinture rouge éparpillée,`
+` pour le reste de ma vie.`
+`......Mes rétines avaient déjà cette pièce gravée en elles.`
+`{n}...En d'autres termes, il était trop tard pour moi...`
+`...............Hein......`
+`Où-... où sont-ils... !`
+`Juste après être entrés dans la salle des domestiques, Gohda-san et Shannon-chan ont semblé bouleversés.`
+`...Nous avons tremblé, nous demandant quelle nouvelle situation horrible avait bien pu surgir pour les bouleverser une seconde fois.`
+`Que s'est-il passé ?`
+` Qu'y a-t-il ?`
+`Tante Rosa frissonna également, leva son arme bien haut et chercha ce qui les avait tant secoués.`
+`......Mais elle ne trouva rien.`
+` ...Ce qui n'était pas surprenant.`
+`{n}...Ils étaient secoués {i:parce qu'}ils ne pouvaient rien trouver.`
+`Hé, hé, qu'est-ce qui se passe, bon sang...`
+`.........Les deux corps... ne sont pas là.`
+`Que voulez-vous dire ?`
+`......C-ce n'est pas possible... !`
+` Ces deux-là étaient définitivement... ici...... !`
+`...Attends, attends, attends.`
+` C'est quoi ce bordel—êtes-vous en train de dire que les cadavres sont simplement partis se promener quelque part ?`
+` Comment est-ce possible ?`
+` Je veux dire, la salle des domestiques n'était-elle pas verrouillée ?`
+` N'avez-vous pas déverrouillé la porte en entrant tout à l'heure, Gohda-san ?!`
+`......Et alors, quoi ?`
+` ...N'est-ce pas la même chose que la chambre de Jessica ?!`
+` Ils ont encore disparu de l'intérieur d'une pièce verrouillée ?!`
+` C'est ridicule !!`
+`Je n'ai pas la moindre idée de ce qui s'est passé non plus !!`
+` Quand nous avons quitté cette pièce, nous l'avons définitivement verrouillée, et...... !!`
+` Je ne sais plus du tout ce qui se passe... !!`
+`Il y avait un sourire timide et pitoyable sur le visage de Gohda-san, chose qu'il n'aurait certainement pas laissé paraître en temps normal.`
+`Shannon était pareille.`
+`Leurs deux cadavres ont disparu !`
+` Et par-dessus le marché, ils ont disparu alors que la porte était verrouillée !`
+` Même si le coupable était Kanon-kun, il ne devrait plus posséder de passe-partout !!`
+`C'est faux... !`
+` Kanon-kun n'est pas le coupable... !!`
+`......Shannon...`
+` Je crois Shannon.`
+` Kanon-kun n'est pas le coupable.`
+` Ce doit être l'œuvre de quelqu'un qui lui ressemble beaucoup.`
+`Non.`
+` Kanon-kun aurait pu obtenir un passe-partout.`
+` ......Après tout, son passe-partout a été trouvé dans la poche du corps de Jessica-chan.`
+` ...Et qui a pris cette clé ?`
+`!!`
+` C-c'est exact !`
+` C'était le docteur Nanjo...... !!`
+`C'est exact.`
+` À ce moment-là, c'était définitivement le docteur Nanjo qui avait fouillé dans les vêtements de Jessica et trouvé le passe-partout... !`
+`Alors, si quelqu'un a eu l'occasion de fouiller le cadavre du docteur Nanjo, il lui aurait été facile de récupérer le passe-partout...`
+`Tante Rosa chercha sous le lit et dans le placard.`
+`...À présent, je comprenais aussi ce que cela signifiait.`
+`{n}Si l'on supposait qu'il y avait eu deux coupables, cela s'expliquait facilement.`
+`La première personne était Kanon-kun, ou peut-être un imposteur qui lui ressemblait.`
+`{n}Il avait achevé le docteur Nanjo et s'était enfui quelque part.`
+`La deuxième personne était...... probablement la 19ème personne, {f:5:Beatrice}, dont on ignorait la position.`
+`Elle s'était cachée sous le lit de la salle des domestiques au préalable, et avec le corps du docteur Nanjo toujours posé là, elle avait attendu que Genji-san et les autres s'en aillent.`
+`Ensuite, elle avait rampé dehors, récupéré le passe-partout dans la poche du docteur Nanjo, et emporté les deux corps pour une raison quelconque.`
+`Si elle avait ensuite verrouillé la porte avec le passe-partout, cette chambre close aurait été créée.`
+`*Ricanements* *ricanements*.`
+` Tu as construit ça plutôt vite en utilisant ton raisonnement sur la chambre de Jessica comme prémisse.`
+` Avec cette méthode, tu pourrais en effet créer une chambre close même sans magie.`
+` Devrais-je t'accorder la moyenne ?`
+` Cependant, aussi fascinant que ce soit, ......il y a une chose que tu ne dois pas oublier.`
+`...Si le coupable avait récupéré le passe-partout par la méthode que tu décris,`
+` ......ce coupable...`
+`{i:aurait dû savoir que Nanjo avait pris le passe-partout sur le corps de Jessica}.`
+`......Tu n'as pas besoin de me le dire...`
+` Tu essaies probablement de dire que c'est une information que seules les personnes présentes à cet endroit, à ce moment-là, pouvaient connaître...`
+`......Hé !`
+` Cette troisième chambre close a été détruite si vite que tu ne peux rien faire d'autre que te plaindre.`
+` Il n'y a pas d'art à répéter le même contenu...`
+`Même si je faisais le dur, ce coup de la sorcière m'a fait très mal...`
+`{n}......Je sentais des fissures se former dans la chose que je voulais le plus nier.`
+`Elle essaie de m'encercler de deux côtés à la fois.`
+`D'un côté, il y a l'attaque frontale, où elle essaie de me forcer à croire aux sorcières en utilisant des astuces de chambre close que seule une sorcière pourrait réaliser.`
+`......Et de l'autre côté, il y a l'attaque à revers, où elle essaie de m'amener à penser qu'il vaudrait mieux qu'il y ait une sorcière, en renforçant mes soupçons envers mes proches.`
+`Dans la première chambre close, la chapelle, elle avait utilisé l'attaque frontale, mais ça n'avait pas marché sur moi.`
+`C'est sans doute pour cela qu'avec la deuxième chambre close, et maintenant la troisième, elle a commencé à changer la direction de son attaque...`
+`Cependant, le fait qu'elle changeait la direction de son attaque prouvait également que ma résistance fonctionnait un peu.`
+`...Et elle avait sûrement abandonné l'attaque frontale parce qu'elle ne pouvait pas gagner directement avec...`
+`.........J'essayais de me forcer à accepter ma propre position en pensant cela.`
+`{n}Mais il semblait que la sorcière avait percé à jour mes pensées depuis longtemps.`
+`*Ricanements* *ricanements*.`
+` L'attaque frontale est indispensable.`
+` ...L'attaque à revers n'a de sens que parce qu'elle avance en même temps que l'attaque frontale.`
+` Si je devais m'abaisser à n'utiliser que l'attaque à revers, ce ne serait rien de plus qu'un plan insensé survenant lorsque mes moyens deviendraient mon but.`
+`...Ihihi, vraiment ?`
+` Eh bien alors, ne vas-tu pas répéter « personne ne se cachait dans la chambre des domestiques » dans ce rouge dont tu es si fière ?`
+`Il n'y en a pas besoin.`
+` La prémisse de ton raisonnement est sur le point d'être détruite.`
+`Oh, oh ?!`
+` Tu refuses ?!`
+` Donc quelqu'un se cache vraiment ?!`
+`Rosa va détruire ta prémisse tout de suite.`
+` ...*Ricanements* *ricanements* !`
+` Eh bien, essaie d'écouter.`
+`S'il vous plaît, croyez-nous, Rosa-sama... !!`
+` Les deux corps étaient certainement allongés ici !`
+` Le sang rouge vif sur le sol est le leur... !!`
+`Tante Rosa commença à fouiller divers objets dans la pièce, tournant le dos à Gohda-san alors qu'il criait en signe de supplication.`
+`......Finalement, elle trouva quelque chose, et pendant un moment, cessa de bouger.`
+`Rosa-sama, nous ne mentons vraiment pas... !!`
+` Les deux corps étaient définitivement ici !!`
+`Calmez-vous.`
+` .........La personne qui a caché les cadavres a avoué les avoir emmenés à un autre endroit.`
+` .........Avec ça.`
+`Rosa leur montra une simple feuille de papier par-dessus son épaule.`
+`Qu'est-ce que c'est que ça, bon sang ?!`
+` Ça ne pourrait pas être...... une lettre dans une enveloppe scellée avec un sceau, tout comme dans la chapelle ?!`
+`......Oui, c'est exact.`
+` Elle a été posée ici, bien en évidence.`
+` Je vais la lire.`
+`{e:070:—Gens de la famille Ushiromiya.`
+`Je me demande si vos tentatives pour résoudre l'énigme de l'épitaphe pour l'or atteignent leur paroxysme.`
+`Résoudre l'énigme de l'épitaphe est la seule méthode par laquelle vous tous pourrez m'arrêter.}`
+`{e:070:Vous ne pourrez pas m'arrêter, ni arrêter le rituel, par quelque autre méthode que ce soit.`
+`Je vous demande à tous de prendre soin de ne pas vous tromper d'objectif.}`
+`{e:070:Tenter de me chercher est inutile.`
+`Tenter de m'échapper est inutile.`
+`Tenter de me nier est également—inutile.`
+`—{f:5:Beatrice} la Dorée.}`
+`......P.-S.`
+` J'ai emprunté les deux corps pour le rituel.`
+` Je les rendrai plus tard, alors veuillez accepter mes excuses.`
+` ...De plus, puisque ces clés vous appartiennent à tous, je vous les rends.`
+`Alors que Rosa lisait cela à haute voix, le contenu de l'enveloppe reposait à découvert sur la paume de sa main.`
+`C'étaient deux passe-partout.`
+`{n}Le passe-partout que Nanjo avait trouvé dans la poche de Jessica, qui était à l'origine celui de Kanon, et le passe-partout de Kumasawa.`
+`C'est quoi ce bordellllll......`
+` Alors qu'est-ce que ça veut dire...`
+` Au diable, encore ?!`
+` Tu dis que je ne peux à nouveau soupçonner que les domestiques détenant des clés ?!`
+`Je ne l'ai pas dit en rouge, tu sais... ?`
+` Je n'ai pas nié la possibilité qu'au moment où ils ont verrouillé la porte et sont partis, quelqu'un se cachait dans cette pièce...`
+` *Ricanements* *ricanements* *ricanements* !`
+`......S'ils se cachaient sous le lit, il n'aurait pas été impossible pour eux d'emporter les cadavres quelque part.`
+` Mais de cette façon, ils ne pouvaient pas verrouiller la porte !`
+` Le passe-partout qu'ils se sont donné tant de mal à obtenir a été déposé juste ici !`
+`......C'est vrai, j'avais oublié.`
+` Qu'en est-il des clés spécifiques de cette pièce, les clés de la salle des domestiques ?!`
+`Mmhm.`
+` Celles-ci {p:1:se trouvent dans la boîte à clés au centre de la salle des domestiques}.`
+` Il y a plusieurs clés de la salle des domestiques, mais {p:1:toutes celles-ci sont à l'intérieur de la boîte à clés}.`
+`Ce qui signifie que la situation n'est pas différente de celle avec la clé de la chambre de Jessica...`
+` Ce n'est pas comme si les domestiques se promenaient avec une clé inutile quand ils ont ces passe-partout si pratiques.`
+` Je peux accepter qu'elles étaient toutes encore enfermées dans la boîte à clés...`
+`Et rien n'a changé concernant les autres conditions.`
+` {p:1:Les entrées et sorties sont impossibles à l'exception de l'unique porte et de l'unique fenêtre}.`
+` Par conséquent, les passages secrets et les méthodes d'entrée irrégulières ne peuvent exister.`
+` Réjouissez-vous, grands détectives.`
+` *Ricanements* !`
+` `
+`{p:1:Et ces deux-là étaient verrouillées}.`
+` {p:1:La porte et la fenêtre ne permettent aucune sorte d'entrée ou de sortie lorsqu'elles sont verrouillées}.`
+` Donc cela ne marchera pas de retirer la porte, de faire une fente pour s'y glisser, ou quoi que ce soit de ce genre pendant que la serrure est maintenue.`
+` Et évidemment, {p:1:il est impossible de déverrouiller la porte sans la clé de la salle des domestiques ou un passe-partout}.`
+`...C'est pénible de devoir lire tout ça à haute voix à chaque fois.`
+` Tôt ou tard, je devrais trouver un mot pour abréger tout cela en une seule phrase.`
+`Mais tu ne peux pas répéter que personne ne se cachait dans cette pièce !`
+` ......Cependant, cela seul ne brisera pas la porte d'une chambre close...`
+` Aaah, bon sang, bon sang !!`
+` Ce n'est pas bon, pas bon, pas bon du tout, bon sang... !`
+`*Ricanements* *ricanements* !`
+` Qu'est-il arrivé à cette histoire de retourner l'échiquier dont tu es si fier... ?`
+` Je t'en prie, annonce ta théorie étrange et vantarde.`
+`...............Retourner... l'échiquier.`
+` ............Que ferais-je si j'étais le coupable ?`
+` J'emporte les cadavres quelque part.`
+` ......Je laisse une lettre.`
+` .........Je verrouille la porte de l'intérieur.`
+` ......Ensuite, je dois juste m'échapper de cette pièce par un moyen quelconque.`
+`.........Bon sang, est-ce seulement possible ?!`
+` On m'a dit en rouge qu'on ne peut sortir que par la porte ou la fenêtre... !`
+`..................ah—`
+`......À ce moment-là, ......j'ai compris.`
+` C'est exact.`
+`......Emporter les cadavres, laisser la lettre.`
+`{n}......Et ne pas compter sur un « passage secret »—{i:en d'autres termes, ne même pas pouvoir s'échapper}.`
+`...C'est ça.`
+` Ce n'est pas une question, c'est une réponse......`
+`Beato.`
+` ......Avant ma demande de répétition, je veux vérifier la {i:définition de ces passages secrets} dont tu parles.`
+`À quoi as-tu pensé ?`
+` Très bien, je vais t'expliquer.`
+` Un passage secret désigne une entrée ou une sortie qui ne peut être reconnue par ceux qui n'en ont pas connaissance.`
+` Même les enfants le savent.`
+`......Donc en d'autres termes, si tu ne peux pas sortir de la pièce avec, ce n'est pas un passage secret ?`
+`Hoh.`
+` .........Cet angle-là.`
+`Je n'arrêtais pas de penser que le coupable s'était échappé de la chambre close.`
+`......C'est faux.`
+` Même le coupable n'a pas pu s'échapper de la chambre close !`
+` Alors le coupable a décidé de se cacher jusqu'à ce que nous passions !`
+` J'avais utilisé cette théorie pour la deuxième chambre close, et j'avais déduit que Kanon-kun aurait pu faire ça.`
+`......Mais j'avais abandonné ce raisonnement quand on m'a dit « Kanon-kun a été tué » en rouge.`
+`Et ensuite, j'avais raisonné que s'il y avait eu une troisième personne dans la pièce, il lui aurait été possible de s'échapper par un passage secret.`
+`Et c'est à ce moment-là que, pour la première fois, l'affirmation a été faite en rouge qu'« aucun passage secret n'existe ».`
+`Et ce que je venais d'apprendre à l'instant.`
+` Ces « passages secrets » dont parlait la sorcière faisaient référence à des choses qui permettaient d'entrer ou de sortir de la pièce.`
+`......En d'autres termes, les choses qui ne permettaient pas d'entrer ou de sortir vers l'extérieur, et qui ne seraient pas non plus remarquées par les personnes qui n'en connaissaient pas l'existence, n'entreraient pas dans la définition de « passage secret ».`
+`En d'autres termes, s'il y avait, par exemple, quelque chose comme une « étagère cachée » ou un « placard secret », ils ne seraient pas définis comme des « passages secrets » !`
+`En d'autres termes, la troisième personne dans la chambre de Jessica se cachait ici, attendant que nous passions !`
+`Hé, comme c'est pathétique, juste un petit jeu sur les mots !`
+`{n}Avec cette méthode, on dirait que je peux même gérer la troisième chambre close, la salle des domestiques.`
+`S'il y a une étagère cachée sous le lit ou quelque chose du genre, cela suffirait.`
+`{n}Le coupable se cache quelque part, en attendant que nous partions.`
+`.........Le coupable est également piégé dans la chambre close même maintenant !!`
+`Ce qui signifie...... en ce moment même !`
+`Le coupable se cache toujours dans la salle des domestiques, retenant son souffle... !!!`
+`Et ça veut dire......... C'est quoi ce bordel...`
+`Même si nous avons été torturés avec des chambres closes à trois reprises,`
+` ......en ce moment même, nous avons mis le coupable échec et mat !!`
+`J'ai enfin commencé à y voir clair.`
+` ......Prends ça, Beato !!`
+`Répétition demandée !`
+` « Il n'y a personne dans cette pièce à part nous » !`
+` Par nous, je veux dire moi, George-aniki, Maria, Tante Rosa, Genji-san, Gohda-san et Shannon-chan, d'accord ?!`
+` Alors ?!! Tu ne peux pas le dire, n'est-ce pas ?!`
+`.........Hoh......`
+` .........Hoh...... !`
+`Je parie que je t'ai touchée là où ça fait mal !!`
+` Si tu refuses, alors dis que tu refuses, bon sang !!`
+` C'est au tour du suivant !!`
+` Répétition demandée !!`
+`Je ne sais pas comment ils se cachent dans cette pièce.`
+`Mais si c'est un fait, alors cela résout aussi la deuxième chambre close, la chambre de Jessica, en même temps !!`
+`Je l'ai enfin attrapée par la queue !`
+`{n}Avec ça, je peux tout expliquer !`
+`{n}Les sorcières n'existent pas, je n'ai à douter de personne !!`
+`Très bien, à partir de maintenant, je retourne la situation !`
+` La prochaine chose que je vais lui demander de répéter est—`
 `"`
-`{p:1:And those were both locked}.`
-` {p:1:The door and the window do not permit any kind of entry or exit when they are locked}.`
-` So it won't work to remove the door, make a crack to slide in through, or anything like that while the lock is maintained.`
-` And obviously, {p:1:it is impossible to unlock the door without the servant room key or a master key}."`
-`"...It's a pain having to read all these aloud every time.`
-` Sooner or later, I should think of some word to abbreviate all this into a single phrase."`
-`"But you can't repeat that no one was hiding in this room!`
-` ......However, that alone won't break open the door of a locked room...`
-` Aaah, damn it, damn it!!`
-` It's no good, no good, no goddamn good at all...!"`
-`"*cackle*cackle*!`
-` What happened to that flipping over the chessboard thing that you're so proud of...?`
-` Please, announce your boastful strange theory."`
-`"...............Flip over...the chessboard.`
-` ............What would I do if I were the culprit?`
-` I carry the corpses off somewhere.`
-` ......I leave a letter.`
-` .........I lock the door from the inside.`
-` ......Then I just have to escape this room by some means."`
-`".........Damn it, is that even possible?!`
-` I was told in red that you can't get outside except by the door or the window...!"`
-`"..................ah—"`
-`......At that moment, ......I got it.`
-` That's right.`
-`......Carry the corpses, leave the letter.`
-`{n}......And not rely on a "hidden door"—{i:in other words, not even able to escape}.`
-`...That's it.`
-` This isn't a question, it's an answer......`
-`"Beato.`
-` ......Before my repetition request, I want to check the {i:definition of these hidden doors} that you're talking about."`
-`"What have you thought of?`
-` Very well, I'll explain.`
-` A hidden door refers to an entrance or exit that cannot be recognized by those who do not know of it.`
-` Even children know that."`
-`"......So in other words, if you can't get outside the room with it, it isn't a hidden door?"`
-`"Hoh.`
-` .........That angle."`
-`"I kept thinking that the culprit had escaped the locked room."`
-`"......That's wrong.`
-` Even the culprit couldn't escape the locked room!`
-` So the culprit decided to hide until we passed by!"`
-` I had used this theory for the second locked room, and reasoned that Kanon‐kun might have done this.`
-`......But I had given up that reasoning when I was told "Kanon‐kun was killed" in red.`
-`And next, I had reasoned that if there had been a third person in the room, it would have been possible for them to escape through a hidden door.`
-`And that was when, for the first time, the claim had been made in red that "no hidden doors exist".`
-`And what I'd learned just now.`
-` These "hidden doors" the witch was talking about referred to things that made it possible to get into or out of the room.`
-`......In other words, things that didn't permit entry or exit to the outside, and also wouldn't be noticed by people who didn't know about them, wouldn't fall under the definition of "hidden door".`
-`In other words, if there were, for example, something like a "hidden shelf" or a "secret closet", they wouldn't be defined as "hidden doors"!`
-`In other words, the third person in Jessica's room was hiding here, waiting for us to pass by!`
-`Heh, how pathetic, just a little playing around with words!`
-`{n}With this method, it looks like I can even manage the third locked room, the servant room.`
-`If there's a hidden shelf under the bed or anything like that, that would be enough.`
-`{n}The culprit's hiding somewhere, waiting for us to leave.`
-`.........The culprit is also trapped in the locked room even now!!`
-`Which means......at this very moment!`
-`The culprit is still hiding in the servant room, holding their breath...!!!`
-`And that means......... What the hell...`
-`Even though we've been tortured with locked rooms three times,`
-` ......in this very moment, we've actually gotten the culprit in checkmate!!`
-`"I've finally started to see it.`
-` ......Take this, Beato!!"`
-`"Repetition requested!`
-` "There is no one in this room other than us"!`
-` By us, I mean me, George‐aniki, Maria, Auntie Rosa, Genji‐san, Gohda‐san, and Shannon‐chan, alright?!`
-` Well?!! You can't say it, can you?!"`
-`".........Hoh......`
-` .........Hoh......!"`
-`"I'll bet I hit you where it hurts!!`
-` If you decline, then say you decline, damn it!!`
-` Here comes the next one!!`
-` Repetition requested!!"`
-`I don't know how they're hiding in this room.`
-`But if that's a fact, then this also resolves the second locked room, Jessica's room, at the same time!!`
-`I've finally caught her by the tail!`
-`{n}With this, I can explain everything!`
-`{n}Witches don't exist, I don't have to doubt anyone!!`
-`Alright, starting now, I'll flip it over!`
-` The next thing I'll request she repeat is—`
-`"`
-`{p:1:No one exists in this room except your group}.`
-` {p:1:"Your group" refers to Battler, George, Maria, Rosa, Genji, Gohda, and Shannon}."`
-`"......Wha‐............"`
-`"Let's go back to Jessica's room.`
-` {p:1:At the time of Jessica's corpse discovery,`
-` only Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa, and Nanjo were in Jessica's room}."`
-`"Whoops, the corpse of {p:1:Jessica is also included, of course}.`
-` {p:1:Therefore, both in the case of Jessica's room and the case of this servant room, no humans exist that you were not aware of}.`
-` {p:1:No one is hiding}."`
-`"And I'll say more.`
-` {p:1:No method exists by which the doors can be locked from the outside without using a key}.`
-` {p:1:Regarding the windows, no method exists by which they could somehow be locked from the outside}."`
-`"And while I'm at it.`
-` {p:1:You are incompetent}!"`
-`"*cackle*cackle*cackle*cackle*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi}!!"`
-`"S‐.........son of a biiiiitch......`
-` Then.........it really is......a locked room, isn't it............"`
-`"It, ...it was so hard to think of, too.`
-` If you had been hiding...that explanation would fit everything.`
-` Just when I thought I'd broken the trick... .........Damn iiit..."`
-`".........u............uoooooooooooooooooooooohhh!!"`
-`It's no good no good no good no goddamn good!!`
-`{n}For a second, I thought I had it!`
-` It was no goddamn good at all!!`
-`{f:5:Beatrice}, you bitch,`
-` I thought you were all smoke and mirrors, playing word games that made clever use of red,`
-` I was certain you'd just cleverly deceived me...!!`
-`......Just when I thought I'd seen a light in the darkness,`
-` ............it disappeared,`
-` .........it just disappeared.........`
-`swallowed up...`
-`...by a blood‐red sea.........!`
-`Red,`
+`{p:1:Personne n'existe dans cette pièce à part votre groupe}.`
+` {p:1:« Votre groupe » désigne Battler, George, Maria, Rosa, Genji, Gohda et Shannon}.`
+`......Quoi-...............`
+`Revenons à la chambre de Jessica.`
+` {p:1:Au moment de la découverte du cadavre de Jessica,`
+` seuls Battler, George, Maria, Rosa, Genji, Gohda, Shannon, Kumasawa et Nanjo se trouvaient dans la chambre de Jessica}.`
+`Oups, le cadavre de {p:1:Jessica est également inclus, bien sûr}.`
+` {p:1:Par conséquent, tant dans le cas de la chambre de Jessica que dans celui de cette salle des domestiques, il n'existe aucun humain dont vous n'aviez pas conscience}.`
+` {p:1:Personne ne se cache}.`
+`Et je vais dire plus.`
+` {p:1:Il n'existe aucune méthode permettant de verrouiller les portes de l'extérieur sans utiliser de clé}.`
+` {p:1:En ce qui concerne les fenêtres, il n'existe aucune méthode permettant de les verrouiller d'une manière ou d'une autre de l'extérieur}.`
+`Et tant qu'à y être.`
+` {p:1:Vous êtes incompétent} !`
+`*Ricanements* *ricanements* *ricanements* *ricanements*, {p:1:hiiihhi{0}hi{0}hhi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi} !!`
+`M-... ...fils de puuuute......`
+` Alors......... c'est vraiment...... une chambre close, n'est-ce pas............`
+`C'était... c'était si difficile à imaginer, pourtant.`
+` Si vous vous étiez caché... cette explication aurait tout justifié.`
+` Juste au moment où je croyais avoir brisé l'astuce... .........Merdeee...`
+`.........u............uoooooooooooooooooooooohhh !!`
+`C'est nul, c'est nul, c'est nul, c'est vraiment bon à rien !!`
+`{n}Pendant une seconde, j'ai cru que j'avais trouvé !`
+` C'était absolument bon à rien !!`
+`{f:5:Beatrice}, salope,`
+` Je croyais que tu n'étais que du vent et des miroirs, que tu jouais avec les mots en abusant habilement du rouge,`
+` J'étais certain que tu m'avais simplement trompé avec astuce... !!`
+`......Juste au moment où je croyais avoir aperçu une lueur dans les ténèbres,`
+` ............elle a disparu,`
+` .........elle a simplement disparu.........`
+`engloutie...`
+`...par une mer rouge sang......... !`
+`Rouge,`
 ` ...`
 `...`
-`red`
-` red`
-` red`
-` red!!`
-`No one is hiding!`
-` And there's no hidden door, and no way to trick the doors or the windows while they're locked!!`
-`Have you just proven that it's all impossible?!`
-`Has the Devil's Proof...`
-`...been pulled off...`
-`...with a frontal attack?!`
+`rouge`
+` rouge`
+` rouge`
+` rouge !!`
+`Personne ne se cache !`
+` Et il n'y a pas de passage secret, ni aucun moyen de duper les portes ou les fenêtres pendant qu'elles sont verrouillées !!`
+`Viens-tu juste de prouver que tout est impossible ?!`
+`La preuve du diable...`
+`...a-t-elle été administrée...`
+`...avec une attaque frontale ?!`
 `Impossible,`
-` ......this is impossible!!`
-`"What's wrong, Ushiromiya Battlerr?`
-` Weren't you so confident you could deny witchesss?`
-` Why are you groveling and wringing out bitter tears in a place like thaaat?"`
-`"Oh, yes, that's a really wonderful method.`
-` Truly wonderful how you're trying to make me fall over laughing and drown in a sea of the tears of my own laughter.`
-` That's what you're really trying to do, riight?`
-` You're trying to make me laugh and laugh and laugh myself to death, riight,`
+` ......c'est impossible !!`
+`Qu'y a-t-il, Ushiromiya Battlerr ?`
+` N'étais-tu pas si sûr de toi pour nier les sorcièères ?`
+` Pourquoi te prosternes-tu et retiens-tu tes larmes amères dans un endroit pareeeil ?`
+`Oh, oui, c'est une méthode vraiment merveilleuse.`
+` C'est vraiment merveilleux de voir comment tu t'efforces de me faire tomber par terre de rire et de te noyer dans une mer de mes propres larmes de joie.`
+` C'est ce que tu essaies vraiment de faire, n'est-ce pas ?`
+` Tu tentes de me faire rire et rire et rire à m'en décrocher la mâchoire, n'est-ce pas,`
 ` U`
 `shiro`
 `miya`
@@ -441,441 +441,441 @@
 `le`
 `e`
 `rr`
-`???"`
-`"Magic?! Screw that! I'll definitely deny witches exist!!`
-` I'll never believe in you!!`
-` You used the power of magic,`
-` ......and bullied and killed everyone for fun?`
-` ......I'm never gonna accept thaaaaaaaat!!"`
-`"Hey, Battler?`
-` Sorry for bullying you too much.`
-` I'll "flip over the chessboard" from my side.`
-` I'll teach your side the best move in your place.`
-` Want to heeeeeaar??"`
-`"Screw you, I don't wanna hear, I don't wanna hear!!"`
-`"The case of Jessica's room.`
-` You really struck on a good spot, you know...?`
-` Trying to hide and wait for you to pass by.`
-` That truly was a good observation."`
-`"...But why did you think that could only be Kanon or me, the 19th person......?`
-` I see, the "hide" part of "hide and wait for you to pass" must have gotten in the way, so you didn't think that far."`
-`"...Loooook, now do you understand?`
-` It's Jessica.`
-` Jeeeessicaaaaaa!!"`
-`If Jessica were the culprit, ......a farce like this could be easily constructed!!`
-`She killed Kanon‐kun, and carried him off somewhere!`
-`{n}Then, she played dead and let us walk by!`
-`But that's ridiculous!!`
-` Doctor Nanjo had definitely checked that she was dead!`
-` So is Doctor Nanjo an accomplice too?!`
-`That's wrong!!`
-` I had also made sure that Jessica was really dead!`
-` Sure, I'd never performed an examination of a corpse before, but she was definitely dead!`
-`I think she was dead!!`
-` No, she probably, surely, definitely, at least I think so but she has to be, no, no......`
-` ...She was dead!!`
-` She was dead!!!`
-`"Jessica was also an accomplice.`
-` And Nanjo, who examined her corpse, was also an accomplice.`
-` *cackle*cackle*cackle*cackle*cackle*cackle*!!`
-` Then the third locked room was a faaaarce."`
-`Yeah, then it's simple.`
-` Doctor Nanjo was an accomplice so in other words, he was on the culprits' side so in other words in other words...`
-`he was never killed in the first place?!`
-`We thought he had been killed and the body had disappeared, but he wasn't in the servant room in the first place?!`
-`Then is Kumasawa baa‐chan, who disappeared with him, also an accomplice?!`
-`......That's not all that's not all!`
-`{n}The servants who are going along with that story—Genji‐san and Gohda‐san, and even Shannon‐chan are accomplices!`
-`Then, the one who stole the key from Maria's handbag was Jessica,`
-` ...no no, it's also possible it was George‐aniki!`
-`After all, if Shannon‐chan was on the culprit's side, then George‐aniki would automatically be on the culprit's side as well!!`
-`Wait a second just wait a second, they're all wolves...`
-`{n}They're all wolves!!`
-`Not only am I drowning in an ocean of bright‐red blood,`
-` there are packs of wolves clamoring on the banks, whose blazing eyes tell me that if I crawl out, they'll eat me!!`
-`Which way should I die?!`
-`{n}Will I have everything denied, and drown in a bright‐red sea?!`
-`{n}Will I know the truth, and have my whole body chewed to bits by the wolves?!`
-`It's either one hell or the other!!`
-` I can't choose!`
-`{n}Hiiiiiiiiiiiiiiiiiiiiiiiiiiiii!!!`
-`"That is why I am here...!!`
-` {p:1:Come on, Ushiromiya Battler, kneel}.`
-` Then swear your eternal loyalty and lick my shoes...!!"`
-`"{p:1:If you accept me, all of the riddles will be resolved}.`
-` {p:1:With my power, any kind of locked room can be created or destroyed}!!"`
-`"Battler, don't you want to abandon yourself to the joy of surrendering to one with poweeeer??`
-` {p:1:I'll make you my favorite piece of furniture}.`
-` {p:1:I'll love you so much and make you my toy until you turn to ashes}..."`
-`"{p:1:*cackle*cackle*cackle*hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha}!!!"`
-`".........Now it's clear.`
-` There's no longer any reason to doubt."`
-`"Hm...?`
-` ......What do you mean by that......?"`
-`"Those two that you kept saying were dead aren't here.`
-` ...And now we have the letter from {f:5:Beatrice}, where she was kind enough to confess that she carried the corpses off.`
-` ......That's what it is."`
-`"I've had enough of this farce!!"`
-`As Auntie Rosa yelled this, she looked over at everyone with a harsh expression.`
-`"Fa‐`
-`......farce?`
-` ......What do you mean...?!"`
-`"I said it in Jessica‐chan's room.`
-` ......You can't trust anyone but yourself and those whose corpses have been found."`
-`"And since we cannot find the corpses, there's no reason we should accept that those two were killed."`
-`"......P‐please wait, Auntie Rosa.`
-` What do you mean by that...?!"`
-`"Doctor Nanjo and Kumasawa‐san aren't dead, they're alive!`
-` They made it seem like they were killed, and are hiding somewhere in this mansion.`
-` So that they can attack us!!"`
-`"How could you know that?!`
-` Are you saying that Gohda‐san and the rest are lying?!"`
-`"......Rosa‐sama!!`
-` I swear—no, all of the Ushiromiya family servants do!`
-` We all swear that we would do nothing of the sort!!"`
-`"You all say that those two were killed.`
-` But since there are no corpses, there's no reason to believe that.`
-` There's a chance that you worked out a story beforehand, and that you're lying about that!!"`
-`"There's a good way to prove your innocence, isn't there?`
-` For Doctor Nanjo's and Kumasawa‐san's bodies to be found!!"`
-`"If we find them, then maybe I'll start listening to your story.`
-` But until we do, you cannot deny that you are all wolves!!"`
-`"You too!`
-` And you!!`
-` You were probably bought by that witch, your eyes blinded with gold!!`
-` Do you really want money that much?!`
-` That's right, isn't it?!`
-` You want to play around for the rest of your life?!`
-` What is that kind of life worth?!!"`
-`"Rosa‐sama...!!`
-` We...... We couldn't!"`
-`"Silence!`
-` And Shannon, don't get any closer!!`
-` I can't believe that you would repay a ten‐year‐long debt of gratitude with betrayal!!`
-` I'll pull the trigger without mercy!!"`
-`"How......`
-` .........How could you...`
-` .........It's too......`
-`cruel......"`
-`"......A‐Auntie Rosa!!`
-` That's horrible!!`
-` A murder occurred in this room!`
-` Then the culprit carried the corpses away!`
-` They are only honestly reporting that to us!!"`
-`".........uuu, ......uuuUUuuUUuughhu!!!"`
-`Shannon had finally broken down in tears...`
-`She had sacrificed ten years to the Ushiromiya family.`
-`{n}She had sacrificed ten of the most brilliant years of her life.`
-`.........And she had believed that she had built up a friendly relationship with Rosa, as well.`
-`...And this was how she was treated!!`
-`{n}You could kill a person without using a knife...`
-`It wasn't just George‐aniki;`
-` ...even I could recognize that Shannon‐chan had been stabbed deep into her heart, as blood by the name of tears flowed out...`
-`"Shannon‐san, stay back...`
-` ......Rosa‐sama, it is true that I have not served for many years, and I understand that I have not earned your trust..."`
-`"...However, ......could you not at least believe Shannon‐san...?!`
-` She has dedicated a full ten years of service to the Ushiromiya family...!"`
-`"I'm not telling you to believe me...!`
-` At the very least, would you at least believe Shannon‐san...?!!"`
-`...But......I don't understand anymore!!`
-`{n}I don't understand!!`
-`We can't seek an answer without suspecting them!!!`
-`That's it, bit by bit I'm starting to understand...`
-`......It's because we seek an answer; ...that's why everything keeps getting stranger...`
-`We don't need...an answer.`
-` These are all strange murders committed with bizarre magic by the 19th person, the witch {f:5:Beatrice}, as she follows a creepy ritual.`
-`............Isn't that......good enough.........`
-`I don't...want to suspect...anyone anymore.........`
-`Shannon‐chan and Gohda‐san were protesting their innocence, half in tears.`
-`Genji‐san quietly stopped that.`
-`"............Stop.`
-` ...What Rosa‐sama says is quite right.`
-` ...Until we find the corpses,`
-` {i:we cannot prove that Doctor Nanjo and Kumasawa are innocent}."`
-`That's right.`
-` ......By Rosa‐san's argument, if the corpses could be found, then the innocence of at least those people could be proved.`
-`But only the people who were corpses.`
-` Even if they searched around the mansion and found the corpses, in the end, their own innocence would not be proved.`
-`They had abducted Doctor Nanjo and Kumasawa‐san, killed them in another place, and locked the room with their own master keys.`
-`Unless the locked room could be broken by a method other than that one,`
-` ......it would be impossible to prove their innocence...`
-`......But, .........that couldn't be done!!`
-`They only have one chance to prove their innocence.`
-`......That can only happen when they meet with the culprit, become corpses, and are reunited with Auntie Rosa.`
-`That's messed up!!`
-` Innocent if they die, guilty as long as they live, almost like a witch's trial!`
-`...Oh, right, the enemy's a witch.`
-`{n}So that makes it OK...?`
-`"......Rosa‐sama.`
-` We are furniture working for the Ushiromiya family.`
-` ......Whether we are trusted by you or not, that is not our concern.`
-` No matter what assessment you give us, we will only continue to serve until our final hour."`
-`"You really are a model servant.`
-` ...I truly understand why Father trusts you.`
-` It is truly heartrending that I must suspect even you."`
-`"........................"`
-`Genji‐san stuck his hand into his pocket and pulled out a master key.`
-`...Then he set it on an adjacent table.`
-`"......I believe that I hold this as a proof of trust.`
-` If that has been lost, I think it is only natural that I return it."`
-`"..................`
-` ......That's good judgment.`
-` Those master keys are the greatest basis upon which you have been suspected several times today.`
-` Relinquishing them in order to clear away that suspicion may only be a first step,`
-` but, well, I think it isn't a bad start."`
-`"...............You two."`
-`Genji‐san looked at Gohda‐san and Shannon‐chan.`
-`......The two of them nodded, and set their own master keys onto the table.`
-`Auntie Rosa lay the two master keys that had come out of the envelope on top.`
-`With that, all five master keys were gathered in this place.`
-`In other words, this was proof that all of the servants' service until today had been negated,`
-` and even the final honor that they should have been permitted had been stripped from them...`
-`"Maria, give me that handbag."`
-`"......Uu!!`
-` Give it baaack!!"`
-`Auntie Rosa snatched Maria's handbag, tossed all the master keys in there noisily, then lifted one out and held it up for all to see.`
-`She was announcing that she had all of the master keys.`
-`"A‐.........are you satisfied now, Aunt Rosa?`
-` ......Now the only master keys are the ones you are holding yourself.`
-` ......I hope you're satisfied!!"`
-`"Yes, I'm satisfied.`
-` Even if I can't trust anyone, I can at least trust myself!"`
-`"I've been able to get the gun and all the master keys for myself!`
-` Now, I don't have to suspect anyone.`
-` You're all happy too, right?`
-` Now you don't have to be suspected anymore!`
-` Ahahahahahahahahaha, hah‐hah‐hah‐hah‐hah‐hah‐ha!"`
-`".........Kihihihihi."`
-`Then, Maria, who had looked like a spectator off by herself, sneered at her mother.`
-`...Auntie Rosa reacted nervously to that laugh, and turned around.`
-`"......Keys don't matter.`
-` ......{f:5:Beatrice} can open doors with magic.`
-` She doesn't need keys.`
-` ...It doesn't matter who has or doesn't have something like that.`
-` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi...!"`
-`"Aren't I always telling you to stop laughing like that?!!`
-` ......?`
-` What is iiiit, Battler‐kun?"`
-`...I had just cut between the two of them.`
-`......No, that's not it.`
-`...I was on my knees, and hugging Maria's head.`
-`{n}......I was......crying.`
-`"Just...stop it already, Auntie Rosa......`
-` ...Maria was...right......"`
-`"......Wha‐...what are you talking about......?"`
-`".........Maria...`
-` I'm sorry for...`
-`......doubting.`
-` ......I'm sorry for...`
-`......not believing."`
-`"...............Battler."`
-`"It was all...`
-`...the witch's doing...`
-` ......The witch's...`
-`...doing......`
-` ...All that stuff about tricks and locked rooms never mattered..."`
-`".........It's just, it's just...`
-`.........that the witch {f:5:Beatrice} actually exists,`
-` .........and she really was a witch...`
-` ......Because I didn't believe that,`
-` ............it was this painful,`
-` ............this sad............"`
-`".........Battler, ......you believe in {f:5:Beatrice}......?"`
-`"Yes...!`
-` I believe.`
-` ...{f:5:Beatrice} "exists".`
-` And she's a witch, who uses strange magic...!"`
-`"Battler......"`
-`Maria let go of my hand, ...and then she was the one holding my head.`
-`"......That's the way, Battler.`
-` ............{f:5:Beatrice} "existed".`
-` ......You just couldn't believe that easily, so couldn't see her.`
-` ............The witch "exists".`
-` "Exists".`
-` Will soon "come"."`
-`".........You believed in Beato, so I'm sure you'll be invited to the Golden Land.`
-` ......Very soon.`
-` ......It'll be very soon.`
-` Nothing to be afraid of anymore."`
-`"............Not afraid, okay?`
-` Always be with me, holding hands, okay...?`
-` Let's solve the epitaph's riddle together.`
-` Let's think about Beato's problem.`
-` .........Beato has been saying it from the beginning.`
-` She hasn't said anything other than let's play and solve the problem."`
-`"Right...... She did......`
-` Searching for the culprit was just a total waste of time...`
-` ......If only we had...`
-`...just believed in...`
-`...the witch........."`
-`After softly brushing my cheek as my tears kept dripping down,`
-` ......Maria kissed my forehead, as soft as a feather.`
-`For just that instant, ......Maria's smile, which I had once thought was creepy, looked like an angel...`
-`"We have returned the master keys, ...but our loyalty to the Ushiromiya family will not change.`
-` .........From now on, we will not enter the parlor without permission.`
-` Rosa‐sama, please lock the parlor from the inside."`
-`"......You truly are an admirable person.`
-` When the typhoon passes, ......if the cries of the seagulls return to this island again,`
-` .........I wonder if we will be able to trust each other once more."`
-`"......If you were to grant us your trust once again, there would be no greater pleasure."`
-`"You're right.`
-` ......We'll definitely be able to understand each other.`
-` ......When the seagulls cry."`
-`".........It would probably be better if we left this room as it is until the police come.`
-` Rosa‐sama, if you would please lock it.`
-` ......We will return to the kitchen.`
-` If you need anything, please command us at any time."`
-`"Thank you.`
-` ............If you are a wolf,`
-` how shamelessly you speak."`
-`"......And if you are a sheep,`
-` .........I'm sorry for throwing you into the wolf cage."`
-`"......Furniture entrusts its fate to the family.`
-` ......Even if it comes to throwing away this life, if by that your trust could be regained,`
-` it would be a great honor."`
-`".....................`
-` I hope that you all can remain healthy until the typhoon passes, if that is at all possible.`
-` This is all a rhapsody of blowing winds and pouring rain performed by the typhoon.`
-` ......When the performance ends, and the curtain closes,`
-` ......we will surely be able to grasp hands together again."`
-`"......When the seagulls...cry."`
-`Auntie Rosa nodded in response...`
-`Genji‐san turned on his heels.`
-`{n}He left the servant room.`
-`Gohda‐san's face was still streaked with tears,`
-` ......but as he had listened to Genji‐san's words, maybe he had managed to sort out his heart.`
-`......His face had been truly shameful,`
-` ......but it had returned to the face of the Gohda‐san we knew well.`
-`".........I will also be waiting in the kitchen.`
-` ......If you need anything, please command me at any time.`
-` .........If you wish for some warm food, I promise to have the very best prepared for you."`
-`"............Thank you.`
-` I would like to ask you for breakfast tomorrow.`
-` ......And the boat will probably come by midday tomorrow.`
-` ...Thanks for everything up until now.`
-` Your cooking was my only pleasure on Rokkenjima."`
-`"...Certainly.`
-` I promise you, I will prepare a supreme breakfast.`
-` Please, look forward to tomorrow morning."`
-`"Thank you.`
-` ............And Shannon‐chan.`
-` Tomorrow morning, ...let's make up while drinking some delicious coffee."`
-`"............"`
-`"......?`
-` George‐kun?"`
-`"......I'm...going with them too."`
-`"...It's alright, George‐sama...`
-` Please, return to the parlor.`
-` There are no more master keys anymore.`
-` So if you are with Rosa‐sama in the parlor, you won't be threatened by anyone."`
-`"That's right.`
-` ...That's how things are.`
-` ...Objectively speaking, I think that being with me in the parlor would be the safest."`
-`"......But I won't force you to stay with us.`
-` George‐kun, you may stay in any place you feel is safe.`
-` .........You are already an adult.`
-` It's up to you where and with whom you spend the time until tomorrow morning."`
-`".........Yes.`
-` I will decide, by myself...`
-`who I'll spend the night with."`
-`"A‐.........Aniki......"`
-`"Battler‐kun, stay with Auntie Rosa in the parlor.`
-` I'm sure that's safest.`
-` ......Compared to that, I think being outside the parlor isn't as safe.`
-` ......So I can't leave her in a place like that alone."`
-`"......It's......not like I suspect Shannon‐chan and the other servants—`
-`no, anyone at all......`
-` I don't want to suspect anyone..."`
-`"The inheritance?`
-` The gold?`
-` ...That's just stupid...`
-` ...There's no way people are killing each other over that......"`
-`"Yes.`
-` I know better than anyone how pure your heart is, Battler‐kun.`
-` ......No one will blame you.`
-` No one."`
-`"..................Anikii..."`
-`"...It's okay.`
-` I'll protect you.`
-` ......If you're with me, even {f:5:Beatrice} can't lay a hand on you.`
-` 'Cause even though I'm small, I'm a witch."`
-`"Yeah.`
-` .........Maria‐chan.`
-` I'm leaving Battler‐kun in your care.`
-` .........Alright, Shannon.`
-` Let's go."`
-`"Yes......`
-` ......Rosa‐sama, if you would excuse me.`
-` If you have an order, please call me at any time."`
-`".........I'm sorry for saying something so cruel just now.`
-` ............I don't expect you to have forgiven me by tomorrow morning.`
-` But when tomorrow morning comes, let me apologize again."`
-`"Yes...`
-` ............Thank you very much."`
-`George‐aniki and Shannon‐chan left the servant room together.`
-`.........Now, only Maria, Auntie Rosa and I were left in this disgusting, blood‐stained room.`
-`Until Genji‐san disappeared—until Gohda‐san disappeared—until George‐aniki and Shannon‐chan disappeared—we stood there, in a daze...`
-`After their presence and their footsteps had disappeared completely, Auntie Rosa giggled at them, as though she had just remembered something pleasant.`
-`".........You can't trust them at all.`
-` Goddamn furniture."`
-`That one sentence...`
-`...made me choke.`
-`"...Wh‐`
-`.........why are you...`
-`.........saying...`
-`something like that......?"`
-`"There are five master keys in all?`
-` Who would believe that?`
-` It's obvious that some duplicate keys exist.`
-` ......As if we could trust them just because they pulled keys out of their pockets...!!"`
-`"Th‐......that's not fair.........`
-` By, ......by setting down those keys, ......they weren't just letting go of the keys..."`
-`"......You've...made all their hard work count for nothing, disgraced it, trampled it,`
-` .........and caused them to give up the keys at the end of it all......"`
-`"What's with that parting line...`
-` They've shown that they're willing to go this far, ......and you still can't trust them?!`
-` Too much... That's just too much......!"`
-`"It's a Devil's Proof!`
-` There are five master keys in all?!`
-` It's impossible to prove something like that!!`
-` You can show that there are five master keys by placing them here!`
-` But you can't prove that no more than five exist!!`
-` Only a demon or a witch could prove something like that, you know?!"`
-`"Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaa!!!`
-` Stop it already stop it already...!!"`
-`"Please, {f:5:Beatrice}, show yourself right now,`
-` and tell Auntie Rosa in red that "there are only five master keys"!!`
-` Please, I beg you, this can only be proved by devils, a witch like you could prove it!"`
-`"Please, Beato, show yourself here and tell Auntie Rosa...`
-`that those are all of the master keys, and that there's no need to suspect anyone anymore...!!!"`
-`"`
-`{p:1:There are only five master keys}.`
-` {p:1:There are only five master keys}."`
-`"...*cackle*, whatever could be wrong?`
-` It doesn't reach Rosa's ears no matter how often I say it.`
-` It seems there must still be someone who denies that I exist, isn't that riiiight?`
-` Ushiromiya Battleeeeeeeer???"`
-`"I accept it!!`
-` I accept it, you exist you exist you definitely exist!`
-` So, I beg you, stop this already!!`
-` Stop it already! Stop it already!!`
-` HiiiiIIIiiiiiIiiiiiiii!!"`
-`"Your words alone will not reach me; show it with your actions.`
-` Swear from your heart that you will become my furniture."`
-`"Can you do it?`
-` Take off your clothes, be naked, then put both your hands flat and crawl on the ground.`
-` Clothing is proof of one's humanity.`
-` From now on, you will become furniture, so you will lose that right, it's only natural!!"`
-`"Then kneel, make your tongue crawl on my shoes.`
-` Can you do it?`
-` You can do it, riiiiiiiight??`
-` Then I'll appear, sure, I'll say it in red, sure!`
-` I'll tell Rosa that {p:1:there are only five master keys}!!"`
-`"Oh, but I understand, there's no way you could throw away your lordly pride.`
-` But that's alright, that's more than enough, you're starting to waver a bit, aren't youu?"`
-`"For just an instant, you thought maybe it would be alright to lick my shoes, didn't youuu?`
-` And you immediately denied that and felt ashamed, riiiiight??`
-` Just looking at that expression makes me feel just wooonderful!!"`
-`"That face of yours is so pathetic, go look in a mirror,`
-` see how low you are there, naked and licking my shoooooes?`
-` Can you see it, Ushiromiya Battleeeeeeeeeeeeeeeeeeeeer???"`
+` ???`
+`De la magie ?! Va te faire voir ! Je nierai catégoriquement l'existence des sorcières !!`
+`Je ne croirai jamais en toi !!`
+` Tu as utilisé le pouvoir de la magie,`
+` ......et tu as terrorisé et tué tout le monde pour le plaisir ?`
+` ......Je ne l'accepterai jamaaaaaais !!`
+`Hé, Battler ?`
+` Désolé d'avoir abusé de toi.`
+` Je vais « retourner l'échiquier » de mon côté.`
+` Je vais enseigner à ton camp le meilleur coup à ta place.`
+` Tu veux enteeendre ??`
+`Va te faire foutre, je ne veux rien entendre, je ne veux rien entendre !!`
+`Le cas de la chambre de Jessica.`
+` Tu as vraiment mis le doigt sur un bon point, tu sais... ?`
+` Essayer de se cacher et d'attendre que vous passiez.`
+` C'était vraiment une bonne observation.`
+`...Mais pourquoi as-tu pensé que cela ne pouvait être que Kanon ou moi, la 19ème personne...... ?`
+` Je vois, la partie « se cacher » de « se cacher et attendre que vous passiez » a dû te gêner, alors tu n'as pas poussé ta réflexion jusque-là.`
+`...Regaaaarde, tu comprends maintenant ?`
+` C'est Jessica.`
+` Jeeeessicaaaaaa !!`
+`Si Jessica était le coupable, ......une farce comme celle-ci pourrait facilement être mise en scène !!`
+`Elle a tué Kanon-kun et l'a emporté quelque part !`
+`{n}Ensuite, elle a fait la morte et nous a laissé passer !`
+`Mais c'est ridicule !!`
+` Le docteur Nanjo avait bel et bien vérifié qu'elle était morte !`
+` Alors le docteur Nanjo est un complice, lui aussi ?!`
+`C'est faux !!`
+` Je m'étais également assuré que Jessica était réellement morte !`
+` D'accord, je n'avais jamais examiné de cadavre auparavant, mais elle était bel et bien morte !`
+`Je crois qu'elle était morte !`
+` Non, elle l'était probablement, sûrement, définitivement, du moins je le pense, mais elle doit l'être, non, non......`
+` ...Elle était morte !`
+` Elle était morte !!!`
+`Jessica était également une complice.`
+` Et Nanjo, qui a examiné son cadavre, était aussi un complice.`
+` *Ricanements* *ricanements* *ricanements* *ricanements* *ricanements* *ricanements* !!`
+` Alors la troisième chambre close n'était qu'une faaaaaarce.`
+`Ouais, alors c'est simple.`
+` Le docteur Nanjo était un complice, donc en d'autres termes, il était du côté des coupables, alors en d'autres termes, en d'autres termes...`
+`il n'a jamais été tué pour commencer ?!`
+`Nous pensions qu'il avait été tué et que le corps avait disparu, mais il n'était même pas dans la salle des domestiques au départ ?!`
+`Alors la grand-mère Kumasawa, qui a disparu avec lui, est-elle aussi une complice ?!`
+`......Ce n'est pas tout, ce n'est pas tout !`
+`{n}Les domestiques qui marchent dans cette combine — Genji-san, Gohda-san, et même Shannon-chan — sont des complices !`
+`Alors, celui qui a volé la clé dans le sac à main de Maria, c'est Jessica,`
+` ...non non, il est aussi possible que ce soit George-aniki !`
+`Après tout, si Shannon-chan était du côté du coupable, alors George-aniki se retrouverait automatiquement du côté du coupable lui aussi !!`
+`Attends une seconde, attends juste une seconde, ce sont tous des loups...`
+`{n}Ce sont tous des loups !!`
+`Non seulement je me noie dans un océan de sang rouge vif,`
+` mais il y a des meutes de loups qui grondent sur les berges, et dont les yeux flamboyants me disent que si je sors d'ici, ils me dévoreront !!`
+`De quelle façon dois-je mourir ?!`
+`{n}Vais-je tout me voir refuser et me noyer dans une mer rouge vif ?`
+`{n}Vais-je connaître la vérité et voir mon corps entier réduit en pièces par les loups ?`
+`C'est un enfer ou l'autre !!`
+` Je ne peux pas choisir !`
+`{n}Hiiiiiiiiiiiiiiiiiiiiiiiiiiiii !!!`
+`C'est pour cela que je suis ici... !!`
+` {p:1:Allons, Ushiromiya Battler, mets-toi à genoux}.`
+` Puis jure ton allégeance éternelle et lèche mes souliers... !!`
+`{p:1:Si tu m'acceptes, toutes les énigmes seront résolues}.`
+` {p:1:Avec mon pouvoir, n'importe quelle chambre close peut être créée ou détruite} !!`
+`Battler, ne veux-tu pas t'abandonner à la joie de te rendre à quelqu'un qui a du pouvoooir ??`
+` {p:1:Je ferai de toi mon meuble préféré}.`
+` {p:1:Je t'aimerai tellement et ferai de toi mon jouet jusqu'à ce que tu te transformes en cendres}...`
+`{p:1:*Ricanements* *ricanements* *ricanements* hihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hya{0}hya{0}hya{0}hha{0}hha{0}ha{0}ha{0}ha{0}hha{0}ha{0}ha{0}hha{0}hha{0}hha{0}hha{0}hha{0}hhahha} !!!`
+`.........Maintenant c'est clair.`
+` Il n'y a plus aucune raison de douter.`
+`Hm... ?`
+` ......Qu'est-ce que tu veux dire par là...... ?`
+`Ces deux personnes que tu n'arrêtais pas de dire mortes ne sont pas là.`
+` ...Et maintenant nous avons la lettre de {f:5:Beatrice}, dans laquelle elle a eu l'amabilité d'avouer qu'elle avait emporté les cadavres.`
+` ......Voilà ce que c'est.`
+`J'en ai assez de cette farce !!`
+`Alors que Tante Rosa hurlait cela, elle jeta un regard sévère sur tout le monde.`
+`Fa-...`
+`......farce ?`
+` ......Qu'est-ce que tu veux dire... ?!`
+`Je l'ai dit dans la chambre de Jessica-chan.`
+` ......On ne peut faire confiance à personne d'autre qu'à soi-même et à ceux dont on a retrouvé les cadavres.`
+`Et comme nous ne pouvons pas retrouver les corps, il n'y a aucune raison d'admettre que ces deux-là ont été tués.`
+`......P-s'il te plaît, attends, Tante Rosa.`
+` Qu'est-ce que tu veux dire par là... ?!`
+`Le docteur Nanjo et Kumasawa-san ne sont pas morts, ils sont vivants !`
+` Ils ont fait croire qu'ils avaient été tués et se cachent quelque part dans ce manoir.`
+` Pour pouvoir nous attaquer !!`
+`Comment peux-tu savoir ça ?!`
+` Es-tu en train de dire que Gohda-san et les autres mentent ?!`
+`......Rosa-sama !!`
+` Je le jure — non, tous les domestiques de la famille Ushiromiya le jurent !`
+` Nous jurons tous que nous ne ferions rien de tel !!`
+`Vous dites tous que ces deux-là ont été tués.`
+` Mais puisqu'il n'y a pas de cadavres, il n'y a aucune raison de le croire.`
+` Il est possible que vous ayez monté une histoire à l'avance et que vous mentiez à ce sujet !!`
+`Il y a un bon moyen de prouver votre innocence, n'est-ce pas ?`
+` Retrouver les corps du docteur Nanjo et de Kumasawa-san !!`
+`Si nous les retrouvons, alors peut-être que je commencerai à écouter votre histoire.`
+` Mais d'ici là, vous ne pouvez pas nier que vous êtes tous des loups !!`
+`Toi aussi !`
+` Et toi !!`
+` Vous avez probablement été achetés par cette sorcière, les yeux aveuglés par l'or !`
+` Voulez-vous vraiment tant d'argent que ça ?!`
+` C'est bien ça, n'est-ce pas ?!`
+` Vous voulez vous la couler douce pour le reste de votre vie ?!`
+` Qu'est-ce qu'une telle vie peut bien valoir ?!!`
+`Rosa-sama... !!`
+` Nous...... Nous ne ferions pas ça !`
+`Silence !`
+` Et Shannon, ne t'approche pas !!`
+` Je refuse de croire que tu paierais dix ans de gratitude par une trahison !`
+` Je presserai la gâchette sans pitié !!`
+`Comment......`
+` .........Comment as-tu pu...`
+` .........C'est trop......`
+`cruel......`
+`......A-Auntie Rosa !!`
+` C'est horrible !`
+` Un meurtre s'est produit dans cette pièce !`
+` Puis le coupable a emporté les corps !`
+` Ils ne font que nous rapporter cela honnêtement !!`
+`.........uuu, ......uuuUUuuUUuughhu !!!`
+`Shannon avait fini par fondre en larmes...`
+`Elle avait sacrifié dix ans de sa vie à la famille Ushiromiya.`
+`{n}Elle avait sacrifié dix des plus belles années de sa vie.`
+`.........Et elle croyait avoir bâti une relation amicale avec Rosa également.`
+`...Et c'était de cette façon qu'on la traitait !!`
+`{n}On pouvait tuer quelqu'un sans se servir d'un couteau...`
+`Ce n'était pas seulement George-aniki ;`
+` ...même moi je pouvais voir qu'on venait de poignarder Shannon-chan en plein cœur, tandis que le sang qu'on appelle des larmes coulait à flots...`
+`Shannon-san, reculez...`
+` ......Rosa-sama, il est vrai que je ne sers pas depuis de nombreuses années, et je comprends que je n'ai pas gagné votre confiance...`
+`...Cependant, ......ne pourriez-vous pas au moins croire Shannon-san... ?!`
+` Elle a consacré dix pleines années de service à la famille Ushiromiya... !`
+`Je ne vous demande pas de me croire... !`
+` À défaut, voulez-vous au moins croire Shannon-san... ?!!`
+`...Mais...... je ne comprends plus rien !!`
+`{n}Je ne comprends pas !`
+`Nous ne pouvons pas chercher de réponse sans douter d'eux !!!`
+`Ça y est, petit à petit je commence à comprendre...`
+`......C'est parce que nous cherchons une réponse ; ...c'est pour cela que tout devient de plus en plus étrange...`
+`Nous n'avons pas besoin... de réponse.`
+` Ce sont tous des meurtres étranges commis avec une magie bizarre par la 19ème personne, la sorcière {f:5:Beatrice}, alors qu'elle accomplit un rituel effrayant.`
+`............N'est-ce pas...... suffisant.........`
+`Je ne... veux plus... soupçonner personne.........`
+`Shannon-chan et Gohda-san protestaient de leur innocence, à moitié en larmes.`
+`Genji-san mit calmement un terme à cela.`
+`............Arrêtez.`
+` ...Ce que dit Rosa-sama est tout à fait vrai.`
+` ...Jusqu'à ce que nous trouvions les corps,`
+` {i:nous ne pouvons pas prouver que le docteur Nanjo et Kumasawa sont innocents}.`
+`C'est exact.`
+` ......Selon l'argument de Rosa-san, si les corps pouvaient être trouvés, l'innocence d'au moins ces personnes pourrait être prouvée.`
+`Mais seulement les personnes qui étaient des cadavres.`
+` Même s'ils fouillaient le manoir et trouvaient les corps, en fin de compte, leur propre innocence ne serait pas prouvée.`
+`Ils avaient enlevé le docteur Nanjo et Kumasawa-san, les avaient tués ailleurs, et avaient verrouillé la pièce avec leurs propres passe-partout.`
+`À moins que la chambre close ne puisse être brisée par une autre méthode que celle-là,`
+` ......il serait impossible de prouver leur innocence...`
+`......Mais, .........c'était impossible à faire !!`
+`Ils n'ont qu'une seule chance de prouver leur innocence.`
+`......Cela ne peut se produire que lorsqu'ils rencontrent le coupable, deviennent des cadavres et retrouvent Tante Rosa.`
+`C'est n'importe quoi !!`
+` Innocents s'ils meurent, coupables tant qu'ils vivent, un peu comme lors d'un procès de sorcières !`
+`...Ah, c'est vrai, l'ennemi est une sorcière.`
+`{n}Alors ça rend les choses acceptables... ?`
+`Rosa-sama.`
+` Nous sommes des meubles au service de la famille Ushiromiya.`
+` ......Que vous nous fassiez confiance ou non, ce n'est pas notre problème.`
+` Peu importe le jugement que vous portez sur nous, nous continuerons seulement à servir jusqu'à notre dernière heure.`
+`Vous êtes vraiment un domestique modèle.`
+` ...Je comprends tout à fait pourquoi Père vous fait confiance.`
+` C'est vraiment déchirant de devoir vous soupçonner, vous aussi.`
+`........................`
+`Genji-san plongea la main dans sa poche et en sortit un passe-partout.`
+`...Puis il le posa sur une table voisine.`
+`......Je crois que je détiens ceci comme preuve de confiance.`
+` Si cela a été perdu, je trouve tout à fait naturel de le restituer.`
+`..................`
+` ......C'est un bon jugement.`
+` Ces passe-partout constituent la base principale sur laquelle vous avez été soupçonné à plusieurs reprises aujourd'hui.`
+` Y renoncer afin de dissiper ces soupçons n'est peut-être qu'un premier pas,`
+` mais bon, je pense que ce n'est pas un mauvais début.`
+`...............Vous deux.`
+`Genji-san regarda Gohda-san et Shannon-chan.`
+`......Tous deux firent un signe de tête et posèrent leurs propres passe-partout sur la table.`
+`Tante Rosa posa par-dessus les deux passe-partout qui étaient sortis de l'enveloppe.`
+`Avec cela, les cinq passe-partout se trouvaient réunis en ce lieu.`
+`En d'autres termes, c'était la preuve que tout le service des domestiques jusqu'à ce jour avait été réduit à néant,`
+` et que même l'ultime honneur qui aurait dû leur être permis leur avait été retiré...`
+`Maria, donne-moi ce sac à main.`
+`......Uu !!`
+` Rends-le-mooooi !!`
+`Tante Rosa arracha le sac à main de Maria, y jeta bruyamment tous les passe-partout, puis en sortit un qu'elle brandit pour que tout le monde le voie.`
+`Elle annonçait ainsi qu'elle possédait tous les passe-partout.`
+`A-.........es-tu satisfaite maintenant, Tante Rosa ?`
+` ......Maintenant, les seuls passe-partout sont ceux que tu tiens toi-même.`
+` ......J'espère que tu es satisfaite !!`
+`Oui, je suis satisfaite.`
+` Même si je ne peux faire confiance à personne, je peux au moins me faire confiance à moi-même !`
+`J'ai réussi à obtenir l'arme et tous les passe-partout pour moi !`
+` Maintenant, je n'ai plus besoin de soupçonner qui que ce soit.`
+` Vous êtes contents vous aussi, n'est-ce pas ?`
+` Maintenant, vous n'avez plus besoin d'être soupçonnés !`
+` Ahahahahahahahahaha, hah-hah-hah-hah-hah-hah-ha !`
+`.........Kihihihihi.`
+`Puis Maria, qui avait fait office de spectatrice à l'écart, ricana en direction de sa mère.`
+`...Tante Rosa réagit nerveusement à ce rire et se retourna.`
+`......Les clés n'ont aucune importance.`
+` ......{f:5:Beatrice} peut ouvrir les portes avec de la magie.`
+` Elle n'a pas besoin de clés.`
+` ...Peu importe qui possède ou ne possède pas ce genre de chose.`
+` Kihihi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hi{0}hihihi... !`
+`Ne suis-je pas toujours en train de te dire d'arrêter de rire comme ça ?!!`
+` ...... ?`
+` Qu'est-ce que c'est que çaaa, Battler-kun ?`
+`...Je venais de m'interposer entre elles deux.`
+`......Non, ce n'est pas ça.`
+`...J'étais à genoux, en train d'enlace la tête de Maria.`
+`{n}......J'étais......en train de pleurer.`
+`Arrête... arrête ça tout de suite, Tante Rosa......`
+` ...Maria avait... raison......`
+`......Quoi-... de quoi parles-tu... ?!`
+`.........Maria...`
+` Je suis désolé de...`
+`......avoir douté.`
+` ......Je suis désolé de...`
+`......n'avoir pas cru.`
+`...............Battler.`
+`Tout cela était...`
+`...l'œuvre de la sorcière...`
+` ......L'œuvre...`
+`...de la sorcière......`
+` ...Toutes ces histoires de ficelles et de chambres closes n'ont jamais eu d'importance...`
+`.........C'est juste, c'est juste...`
+`.........que la sorcière {f:5:Beatrice} existe bel et bien,`
+` .........et qu'elle était vraiment une sorcière...`
+` ......Parce que je refusais de croire en cela,`
+` ............c'était si douloureux,`
+` ............si triste............`
+`.........Battler, ......tu crois en {f:5:Beatrice}...... ?`
+`Oui... !`
+` Je crois.`
+` ...{f:5:Beatrice} « existe ».`
+` Et c'est une sorcière, qui utilise une magie étrange... !`
+`Battler......`
+`Maria lâcha ma main, ...et ce fut elle qui prit ma tête dans les siennes.`
+`......C'est bien, Battler.`
+` ............{f:5:Beatrice} « existait ».`
+` ......Tu ne pouvais tout simplement pas y croire facilement, alors tu ne pouvais pas la voir.`
+` ............La sorcière « existe ».`
+` « Existe ».`
+` Va bientôt « venir ».`
+`.........Tu as cru en Beato, alors je suis sûre que tu seras invité sur la Terre Dorée.`
+` ......Très bientôt.`
+` ......Ce sera très bientôt.`
+` Plus rien à craindre désormais.`
+`............Pas effrayé, d'accord ?`
+` Toujours être avec moi, se tenir la main, d'accord... ?`
+` Résolvons l'énigme de l'épitaphe ensemble.`
+` Réfléchissons au problème de Beato.`
+` .........Beato le dit depuis le début.`
+` Elle n'a rien dit d'autre que jouons et résolvons le problème.`
+`C'est vrai...... C'est ce qu'elle a fait......`
+` Chercher le coupable n'était qu'une perte de temps totale...`
+` ......Si seulement nous avions...`
+`...simplement cru en...`
+`...la sorcière.........`
+`Après avoir effleuré doucement ma joue alors que mes larmes continuaient de couler,`
+` ......Maria embrassa mon front, d'un baiser aussi léger qu'une plume.`
+`Pendant ce seul instant, ......le sourire de Maria, que j'avais autrefois trouvé effrayant, ressemblait à celui d'un ange...`
+`Nous avons rendu les passe-partout, ...mais notre loyauté envers la famille Ushiromiya ne changera pas.`
+` .........À partir de maintenant, nous n'entrerons pas dans le salon sans permission.`
+` Rosa-sama, veuillez verrouiller le salon de l'intérieur.`
+`......Vous êtes vraiment une personne admirable.`
+` Quand le typhon sera passé, ......si les chants des mouettes reviennent sur cette île,`
+` .........je me demande si nous pourrons à nouveau nous faire confiance.`
+`......Si vous pouviez nous accorder votre confiance une fois de plus, il n'y aurait pas de plus grand plaisir.`
+`Tu as raison.`
+` ......Nous pourrons certainement nous comprendre.`
+` ......Quand les mouettes crieront.`
+`.........Il vaudrait probablement mieux laisser cette pièce telle quelle jusqu'à l'arrivée de la police.`
+` Rosa-sama, si vous pouviez la verrouiller.`
+` ......Nous allons retourner à la cuisine.`
+` Si vous avez besoin de quoi que ce soit, n'hésitez pas à nous donner vos ordres.`
+`Merci.`
+` ............Si vous êtes des loups,`
+` avec quelle impudence vous parlez.`
+`......Et si vous êtes des agneaux,`
+` .........je suis désolé de vous avoir jetés dans la cage aux loups.`
+`......Le meuble confie son destin à la famille.`
+` ......Même s'il s'agit d'abandonner cette vie, si cela pouvait permettre de regagner votre confiance,`
+` ce serait un grand honneur.`
+`.....................`
+` J'espère que vous pourrez tous rester en bonne santé jusqu'à ce que le typhon passe, si cela est possible.`
+` Tout ceci n'est qu'une rhapsodie de vents soufflants et de pluie battante interprétée par le typhon.`
+` ......Quand la représentation s'achèvera et que le rideau tombera,`
+` ......nous pourrons sûrement nous serrer à nouveau la main.`
+`......Quand les mouettes... crieront.`
+`Tante Rosa hocha la tête en guise de réponse...`
+`Genji-san fit demi-tour.`
+`{n}Il quitta la salle des domestiques.`
+`Le visage de Gohda-san était encore barré de larmes,`
+` ......mais à force d'écouter les paroles de Genji-san, il avait peut-être réussi à apaiser son cœur.`
+`......Son expression avait été vraiment pitoyable,`
+` ......mais elle avait retrouvé les traits du Gohda-san que nous connaissions si bien.`
+`.........J'attendrai, moi aussi, dans la cuisine.`
+` ......Si vous avez besoin de quoi que ce soit, veuillez me donner vos ordres à tout moment.`
+` .........Si vous désirez un plat chaud, je m'engage à vous préparer le meilleur qui soit.`
+`............Merci.`
+` J'aimerais vous demander de préparer le petit-déjeuner de demain.`
+` ......Et le bateau viendra probablement vers midi demain.`
+` ...Merci pour tout jusqu'à présent.`
+` Votre cuisine a été mon seul plaisir sur Rokkenjima.`
+`...Certainement.`
+` Je vous le promets, je préparerai un petit-déjeuner suprême.`
+` Je vous en prie, attendez demain matin avec impatience.`
+`Merci.`
+` ............Et Shannon-chan.`
+` Demain matin, ...réconcilions-nous en buvant un délicieux café.`
+`............`
+`...... ?`
+` George-kun ?`
+`......Je... y vais avec eux aussi.`
+`...Ce n'est pas grave, George-sama...`
+` Je t'en prie, retourne au salon.`
+` Il n'y a plus de passe-partout maintenant.`
+` Alors, si tu es avec Rosa-sama dans le salon, tu ne seras menacé par personne.`
+`C'est exact.`
+` ...C'est bien ainsi.`
+` ...Objectivement parlant, je pense qu'être avec moi dans le salon serait le plus sûr.`
+`......Mais je ne te force pas à rester avec nous.`
+` George-kun, tu peux rester à l'endroit que tu juges sûr.`
+` .........Tu es déjà un adulte.`
+` C'est à toi de décider où et avec qui tu passes le temps jusqu'à demain matin.`
+`.........Oui.`
+` Je vais décider, par moi-même...`
+`avec qui je vais passer la nuit.`
+`A-.........Aniki......`
+`Battler-kun, reste avec Tante Rosa dans le salon.`
+` Je suis sûr que c'est le plus sûr.`
+` ......Comparé à ça, je pense qu'être en dehors du salon n'est pas aussi sûr.`
+` ......Je ne peux donc pas la laisser seule dans un endroit pareil.`
+`......Ce n'est... pas comme si je soupçonnais Shannon-chan et les autres domestiques —`
+`non, qui que ce soit d'autre......`
+` Je ne veux soupçonner personne...`
+`L'héritage ?`
+` L'or ?`
+` ...C'est tout simplement stupide...`
+` ...Il est impossible que des gens s'entretuent pour ça......`
+`Oui.`
+` Je sais mieux que quiconque à quel point ton cœur est pur, Battler-kun.`
+` ......Personne ne t'en voudra.`
+` Personne.`
+`..................Anikii...`
+`...Ça va.`
+` Je vais te protéger.`
+` ......Si tu es avec moi, même {f:5:Beatrice} ne pourra pas te toucher un cheveu.`
+` Parce que même si je suis petite, je suis une sorcière.`
+`Ouais.`
+` .........Maria-chan.`
+` Je te confie Battler-kun.`
+` .........Très bien, Shannon.`
+` Allons-y.`
+`Oui......`
+` ......Rosa-sama, si vous me le permettez.`
+` Si vous avez un ordre, n'hésitez pas à m'appeler à tout moment.`
+`.........Je suis désolée d'avoir dit quelque chose d'aussi cruel à l'instant.`
+` ............Je ne m'attends pas à ce que vous m'ayez pardonné d'ici demain matin.`
+` Mais quand demain matin viendra, laissez-moi m'excuser à nouveau.`
+`Oui...`
+` ............Merci infiniment.`
+`George-aniki et Shannon-chan quittèrent la salle des domestiques ensemble.`
+`.........À présent, il ne restait plus que Maria, Tante Rosa et moi dans cette pièce répugnante et maculée de sang.`
+`Jusqu'à ce que Genji-san disparaisse — jusqu'à ce que Gohda-san disparaisse — jusqu'à ce que George-aniki et Shannon-chan disparaissent — nous sommes restés là, stupéfaits...`
+`Une fois que leur présence et leurs pas eurent totalement disparu, Tante Rosa ricana en les regardant, comme si elle venait de se souvenir de quelque chose d'agréable.`
+`.........On ne peut pas leur faire confiance.`
+` De sacrés meubles.`
+`Cette unique phrase...`
+`...me fit suffoquer.`
+`...Qu-...`
+`.........pourquoi...`
+`.........dis-tu...`
+`des choses pareilles...... ?`
+`Il y a cinq passe-partout en tout ?`
+` Qui croirait une chose pareille ?`
+` Il est évident qu'il existe des doubles.`
+` ......Comme si on pouvait leur faire confiance sous prétexte qu'ils ont sorti des clés de leurs poches... !!`
+`C-... ...ce n'est pas fair-play.........`
+` En, ......en posant ces clés, ......ils ne faisaient pas seulement une croix sur les clés...`
+`......Tu as... réduit à néant tous leurs efforts, tu as sali leur honneur, tu les as piétinés,`
+` .........et tu les as poussés à abandonner leurs clés pour finir par tout ça......`
+`C'est quoi cette réplique de départ...`
+` Ils ont prouvé qu'ils étaient prêts à aller jusque-là, ......et tu ne peux toujours pas leur faire confiance ?!`
+` C'est trop... C'est tout simplement trop...... !`
+`C'est une preuve du diable !`
+` Il y a cinq passe-partout en tout ?!`
+` Il est impossible de prouver une chose pareille !!`
+` Tu peux montrer qu'il y a cinq passe-partout en les posant ici !`
+` Mais tu ne peux pas prouver qu'il n'en existe pas plus de cinq !!`
+` Seul un démon ou une sorcière pourrait prouver un truc pareil, tu sais ?!`
+`Uwaaaaaaaaaaaaaaaaaaaaaaaaaaaa !!!`
+` Arrête ça, arrête ça... !!`
+`Je t'en prie, {f:5:Beatrice}, montre-toi tout de suite,`
+` et dis à Tante Rosa en rouge qu'« il n'y a que cinq passe-partout » !!`
+` Je t'en supplie, il n'y a que des démons pour prouver ça, une sorcière comme toi pourrait le faire !`
+`S'il te plaît, Beato, montre-toi ici et dis à Tante Rosa...`
+`que ce sont tous les passe-partout, et qu'il n'y a plus besoin de soupçonner qui que ce soit... !!!`
+` `
+`{p:1:Il n'y a que cinq passe-partout}.`
+` {p:1:Il n'y a que cinq passe-partout}.`
+`...*Ricanements*, qu'est-ce qui ne va pas ?`
+` Ça n'atteint pas les oreilles de Rosa, beau fixe ou non.`
+` Il semble qu'il y ait encore quelqu'un pour nier mon existence, n'est-ce pas riiiiight ?`
+` Ushiromiya Battleeeeeeeer ???`
+`J'accepte !!`
+` J'accepte, tu existes, tu existes, tu existes bel et bien !`
+` Alors, je t'en prie, arrête ça !!`
+` Arrête ça ! Arrête ça !!`
+` HiiiiIIIiiiiiIiiiiiiii !!`
+`Tes mots seuls ne m'atteignent pas ; prouve-le par tes actes.`
+` Jure du fond du cœur que tu deviendras mon meuble.`
+`Tu en es capable ?`
+` Retire tes vêtements, mets-toi nu, puis mets tes deux mains à plat et rampe sur le sol.`
+` Les vêtements sont la preuve de son humanité.`
+` À partir de maintenant, tu vas devenir un meuble, alors tu perdras ce droit, c'est bien normal !!`
+`Alors mets-toi à genoux, fais ramper ta langue sur mes chaussures.`
+` Tu en es capable ?`
+` Tu en es capable, riiiiiiiight ??`
+` Alors je vais apparaître, c'est promis, je le dirai en rouge, c'est promis !`
+` Je dirai à Rosa que {p:1:il n'y a que cinq passe-partout} !!`
+`Oh, mais je comprends, il est hors de question que tu mettes ta fierté de seigneur de côté.`
+` Mais ce n'est pas grave, c'est largement suffisant, tu commences à vaciller un peu, n'est-ce pas ?`
+`Juste une seconde, tu t'es dit que ce serait peut-être acceptable de lécher mes chaussures, n'est-ce pasuu ?`
+` Et tu as immédiatement nié cela tout en éprouvant de la honte, riiiiight ??`
+` Rien que de voir cette tête-là, ça me procure un plaiiiiisir fou !!`
+`Cette tête de perdant est tellement pathétique, va te regarder dans un miroir,`
+` tu vois à quel point tu es minable là-bas, nu en train de lécher mes chassssures ?`
+` Tu le vois, Ushiromiya Battleeeeeeeeeeeeeeeeeeeer ???`
