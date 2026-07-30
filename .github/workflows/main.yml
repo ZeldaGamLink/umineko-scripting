@@ -316,4 +316,4 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Fichier-EN-Traduit
-          path: ciout/en.txt
+          path: ciout/en.file
