@@ -316,4 +316,6 @@ jobs:
         uses: actions/upload-artifact@v4
         with:
           name: Fichier-EN-Traduit
-          path: ciout/en.file
+          path: |
+            ciout/en.file
+            ciout/game.hash
