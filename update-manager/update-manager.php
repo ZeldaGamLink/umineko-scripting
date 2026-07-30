@@ -404,7 +404,7 @@ function transformScript($data) {
 		$data = substr($data, 131072);
 	} while($data != '');
 
-	$data = zlib_encode($res, 15);
+	$data = zlib_encode($res, 15, 0);
 	
 	$res = '';
 	do {
